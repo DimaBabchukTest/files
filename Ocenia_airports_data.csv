@@ -1,0 +1,2180 @@
+ICAO,IATA,Name,Type,Municipality,Country
+YPAD,ADL,Adelaide International Airport,Large airport,Adelaide,Australia
+PGUM,GUM,Antonio B. Won Pat International Airport,Large airport,Hagåtña,Guam
+NZAA,AKL,Auckland International Airport,Large airport,Auckland,New Zealand
+YBBN,BNE,Brisbane International Airport,Large airport,Brisbane,Australia
+YSCB,CBR,Canberra International Airport,Large airport,Canberra,Australia
+NZCH,CHC,Christchurch International Airport,Large airport,Christchurch,New Zealand
+NTAA,PPT,Faa'a International Airport,Large airport,Papeete,French Polynesia
+YMML,MEL,Melbourne International Airport,Large airport,Melbourne,Australia
+YPPH,PER,Perth International Airport,Large airport,Perth,Australia
+AYPY,POM,Port Moresby Jacksons International Airport,Large airport,Port Moresby,Papua New Guinea
+NCRG,RAR,Rarotonga International Airport,Large airport,Avarua,Cook Islands
+YSSY,SYD,Sydney Airport,Large airport,Sydney,Australia
+NZWN,WLG,Wellington International Airport,Large airport,Wellington,New Zealand
+NTHE,AHE,Ahe Airport,Medium airport,Ahe Atoll,French Polynesia
+YABA,ALH,Albany Airport,Medium airport,Albany,Australia
+YMAY,ABX,Albury Airport,Medium airport,Albury,Australia
+NZLX,ALR,Alexandra Airport,Medium airport,Alexandra,New Zealand
+YBAS,ASP,Alice Springs Airport,Medium airport,Alice Springs,Australia
+YAPH,ABH,Alpha Airport,Medium airport,Alpha,Australia
+NTGA,AAA,Anaa Airport,Medium airport,Tuamotu archipelago,French Polynesia
+PGUA,UAM,Andersen Air Force Base,Medium airport,Yigo Mariana Island,Guam
+YARA,ARY,Ararat Airport,Medium airport,Ararat,Australia
+NZAR,AMZ,Ardmore Airport,Medium airport,Manurewa,New Zealand
+YARM,ARM,Armidale Airport,Medium airport,Armidale,Australia
+NTGU,AXR,Arutua Airport,Medium airport,Arutua,French Polynesia
+YMAV,AVV,Avalon Airport,Medium airport,Melbourne,Australia
+YAYE,AYQ,Ayers Rock Connellan Airport,Medium airport,Ayers Rock,Australia
+PTRO,ROR,Babelthuap Airport,Medium airport,Babelthuap Island,Palau
+AYBA,VMU,Baimuru Airport,Medium airport,Baimuru,Papua New Guinea
+YBNS,BSJ,Bairnsdale Airport,Medium airport,Victoria,Australia
+AYBM,OPU,Balimo Airport,Medium airport,Balimo,Papua New Guinea
+YBNA,BNK,Ballina Byron Gateway Airport,Medium airport,Ballina,Australia
+YBRN,BZD,Balranald Airport,Medium airport,Balranald,Australia
+YBAR,BCI,Barcaldine Airport,Medium airport,Barcaldine,Australia
+YBTH,BHS,Bathurst Airport,Medium airport,Bathurst,Australia
+YBTI,BRT,Bathurst Island Airport,Medium airport,Wurrumiyanga,Australia
+NVVV,VLI,Bauerfield International Airport,Medium airport,Port Vila,Vanuatu
+YBIE,BEU,Bedourie Airport,Medium airport,Queensland,Australia
+YBLA,BLN,Benalla Airport,Medium airport,Benalla,Australia
+YBDV,BVI,Birdsville Airport,Medium airport,Shire of Diamantina,Australia
+YBCK,BKQ,Blackall Airport,Medium airport,Blackall,Australia
+YBTR,BLT,Blackwater Airport,Medium airport,Queensland,Australia
+NGTA,TRW,Bonriki International Airport,Medium airport,Tarawa,Kiribati
+NTTB,BOB,Bora Bora Airport,Medium airport,Motu Mute,French Polynesia
+YBOU,BQL,Boulia Airport,Medium airport,Queensland,Australia
+YBKE,BRK,Bourke Airport,Medium airport,New South Wales,Australia
+YBRW,BWQ,Brewarrina Airport,Medium airport,Brewarrina,Australia
+YBHI,BHQ,Broken Hill Airport,Medium airport,Broken Hill,Australia
+YBRM,BME,Broome International Airport,Medium airport,Broome,Australia
+PKWA,KWA,Bucholz Army Air Field,Medium airport,Kwajalein,Marshall Islands
+AYBK,BUA,Buka Airport,Medium airport,Buka Island,Papua New Guinea
+YBUD,BDB,Bundaberg Airport,Medium airport,Bundaberg,Australia
+YBCS,CNS,Cairns International Airport,Medium airport,Cairns,Australia
+YSCN,CDU,Camden Airport,Medium airport,Sydney,Australia
+PCIS,CIS,Canton Island Airport,Medium airport,Abariringa,Kiribati
+YCAR,CVQ,Carnarvon Airport,Medium airport,Carnarvon,Australia
+PLCH,CXI,Cassidy International Airport,Medium airport,Banana,Kiribati
+YCDU,CED,Ceduna Airport,Medium airport,Flinders,Australia
+YBCV,CTL,Charleville Airport,Medium airport,Charleville,Australia
+NZCI,CHT,Chatham Islands-Tuuta Airport,Medium airport,Waitangi,New Zealand
+AYCH,CMU,Chimbu Airport,Medium airport,Kundiawa,Papua New Guinea
+YCCA,CCL,Chinchilla Airport,Medium airport,Chinchilla,Australia
+NGAB,ABF,Abaiang Airport,Small airport,Abaiang,Kiribati
+NGTB,AEA,Abemama Atoll Airport,Small airport,Abemama Atoll,Kiribati
+YABI,ABG,Abingdon Downs Airport,Small airport,,Australia
+YNTI,,Abrolhos North Island,Small airport,,Australia
+YRAT,,Abrolhos Rat Island,Small airport,,Australia
+YACS,,Acacia Downs Airport,Small airport,,Australia
+YADY,,Adaminaby Airport,Small airport,,Australia
+YADI,,Adaminaby Airport,Small airport,,Australia
+YPPF,,Adelaide Parafield Airport,Small airport,Adelaide,Australia
+YALG,,Adels Grove Airport,Small airport,,Australia
+AYAF,AFR,Afore Airstrip,Small airport,,Papua New Guinea
+AGAF,AFT,Afutara Aerodrome,Small airport,Bila,Solomon Islands
+AYAL,,Agali Airstrip,Small airport,,Papua New Guinea
+AYAG,AUP,Agaun Airport,Small airport,,Papua New Guinea
+YAWT,,Agnes Water Airport,Small airport,Agnes Water,Australia
+AYAK,AIH,Aiambak Airport,Small airport,Aiambak,Papua New Guinea
+AYAO,AIE,Aiome Airport,Small airport,Aiome,Papua New Guinea
+AYAI,ATP,Aitape Airport,Small airport,Aitape,Papua New Guinea
+NCAI,AIT,Aitutaki Airport,Small airport,Aitutaki,Cook Islands
+AYAY,AYU,Aiyura Airport,Small airport,Aiyura Valley,Papua New Guinea
+AYAC,,Akwom Airstrip,Small airport,,Papua New Guinea
+YALH,,Albilbah Airport,Small airport,,Australia
+YABS,,Albion Downs Airport,Small airport,,Australia
+YALC,,Alcoota Station Airport,Small airport,,Australia
+YALY,,Alderley Airport,Small airport,,Australia
+YADG,,Aldinga Airport,Small airport,Aldinga,Australia
+YALX,AXL,Alexandria Homestead Airport,Small airport,,Australia
+NZAN,,Alfredton Airport,Small airport,Alfredton,New Zealand
+AYAH,,Ali Airstrip,Small airport,Ali,Papua New Guinea
+YALM,,Allambie Airport,Small airport,,Australia
+YALN,,Allandy Airport,Small airport,,Australia
+YADS,AWN,Alton Downs Airport,Small airport,,Australia
+AYAA,AMF,Ama Airport,Small airport,,Papua New Guinea
+AYAM,AMU,Amanab Airport,Small airport,Amanab,Papua New Guinea
+YAMT,AMT,Amata Airport,Small airport,,Australia
+AYAB,,Ambaluwa Airstrip,Small airport,Ambulua,Papua New Guinea
+AYAJ,,Ambua Airstrip,Small airport,Ambua Lodge - Tari,Papua New Guinea
+AYAT,AUJ,Ambunti Airport,Small airport,Ambunti,Papua New Guinea
+YABU,,Amburla Airport,Small airport,,Australia
+YAMM,AMX,Ammaroo Airport,Small airport,,Australia
+YATR,,Amphitheatre Airport,Small airport,,Australia
+YAMJ,,Ampilatwatja Airport,Small airport,,Australia
+AYAR,,Anangalo Airstrip,Small airport,,Papua New Guinea
+YADO,,Andado Airport,Small airport,,Australia
+AYAN,ADC,Andakombe Airport,Small airport,Andekombe,Papua New Guinea
+YAMK,ADO,Andamooka Airport,Small airport,,Australia
+AYAD,,Ande Airstrip,Small airport,Sindeni,Papua New Guinea
+NVVA,AUY,Aneityum Airport,Small airport,Anatom Island,Vanuatu
+YANJ,,Angatja Airport,Small airport,,Australia
+ANG,,Angaur Airstrip,Small airport,Angaur Island,Palau
+AYGU,AKG,Anguganak Airport,Small airport,Anguganak,Papua New Guinea
+NVVB,AWD,Aniwa Airport,Small airport,Aniwa,Vanuatu
+YANK,,Anna Creek Airport,Small airport,,Australia
+YAPA,,Anna Plains Airport,Small airport,,Australia
+YANN,,Anningie Airport,Small airport,,Australia
+YANW,,Annitowa Airport,Small airport,,Australia
+YAND,,Answer Downs Airport,Small airport,,Australia
+YANL,AYL,Anthony Lagoon Airport,Small airport,,Australia
+NTGD,APK,Apataki Airport,Small airport,Apataki,French Polynesia
+YAPO,,Apollo Bay Airport,Small airport,,Australia
+AYAP,,Appa Airstrip,Small airport,,Papua New Guinea
+AYPE,APR,April River Airport,Small airport,April River,Papua New Guinea
+YAMC,AXC,Aramac Airport,Small airport,,Australia
+YARP,,Arapunya Airport,Small airport,,Australia
+NTKK,RKA,Aratika Nord Airport,Small airport,,French Polynesia
+NTGR,,Aratika-Perles Airport,Small airport,Aratika Atoll,French Polynesia
+YACI,,Arcadia Airport,Small airport,,Australia
+YAKG,,Arckaringa Airport,Small airport,,Australia
+YARL,,Ardlethan Airport,Small airport,,Australia
+YAOR,,Ardmore Airport,Small airport,,Australia
+YARS,,Ardrossan Airport,Small airport,,Australia
+YARN,,Areyonga Airport,Small airport,,Australia
+YARD,,Argadargada Airport,Small airport,,Australia
+YARG,GYL,Argyle Airport,Small airport,,Australia
+YARI,,Arizona 1 Airport,Small airport,,Australia
+YARK,,Arkaroola Airport,Small airport,,Australia
+AYAV,,Arkosame Airstrip,Small airport,,Papua New Guinea
+YAML,,Armraynald Airport,Small airport,,Australia
+AYIQ,KIE,Aropa Airport,Small airport,Kieta,Papua New Guinea
+NGTR,AIS,Arorae Island Airport,Small airport,Arorae Island,Kiribati
+AYAU,,Arou Airstrip,Small airport,Arou,Papua New Guinea
+YARY,AAB,Arrabury Airport,Small airport,,Australia
+YADD,,Arubiddy Airport,Small airport,,Australia
+AYRF,,Arufi Airstrip,Small airport,Arufi,Papua New Guinea
+AYAS,,Asama Airstrip,Small airport,,Papua New Guinea
+NSAU,AAU,Asau Airport,Small airport,Asau,Samoa
+AYAX,AEK,Aseki Airport,Small airport,Aseki,Papua New Guinea
+NZAS,ASG,Ashburton Aerodrome,Small airport,,New Zealand
+YAHD,,Ashburton Downs Airport,Small airport,,Australia
+YASF,,Ashford Airport,Small airport,,Australia
+AYAZ,,Asimba Airstrip,Small airport,Asimba,Papua New Guinea
+AYWA,,Asinuwa Airstrip,Small airport,Amjenuwa,Papua New Guinea
+AYSN,,Assengseng Airstrip,Small airport,Assengseng,Papua New Guinea
+YATN,,Atherton Airport,Small airport,Atherton,Australia
+YATY,,Atley Airport,Small airport,,Australia
+YATL,,Atula Airport,Small airport,,Australia
+AYND,AUI,Aua Island Airport,Small airport,Aua Island,Papua New Guinea
+YAUA,,Augathella Airport,Small airport,,Australia
+YAUG,,Augusta Airport,Small airport,,Australia
+YAGD,AUD,Augustus Downs Airport,Small airport,,Australia
+AYUM,AUV,Aumo Airport,Small airport,Aumo,Papua New Guinea
+YAUR,AUU,Aurukun Airport,Small airport,Aurukun,Australia
+YAUS,AWP,Austral Downs Airport,Small airport,,Australia
+YAUV,AVG,Auvergne Airport,Small airport,,Australia
+AYUW,,Auwi Airstrip,Small airport,Auwi,Papua New Guinea
+YAVD,,Avon Downs Airport,Small airport,,Australia
+YAVM,,Avonmore Airport,Small airport,,Australia
+AGGJ,AVU,Avu Avu Airport,Small airport,,Solomon Islands
+AYAW,AWB,Awaba Airport,Small airport,Awaba,Papua New Guinea
+YAYR,AYR,Ayr Airport,Small airport,,Australia
+NFFA,,Ba Airport,Small airport,,Fiji
+AGGI,MBU,Babanakira Airport,Small airport,Mbambanakira,Solomon Islands
+YBSS,,Bacchus Marsh Airport,Small airport,,Australia
+YBAU,BDD,Badu Island Airport,Small airport,,Australia
+YIKL,,Baikal Airport,Small airport,,Australia
+AYBN,,Baina Airstrip,Small airport,Baina,Papua New Guinea
+AYBG,BDZ,Baindoung Airport,Small airport,,Papua New Guinea
+AYBB,,Bak Airstrip,Small airport,Bak,Papua New Guinea
+YASS,,Bakblok Airport,Small airport,,Australia
+YBVA,,Balaklava Airport,Small airport,,Australia
+YBLC,LCN,Balcanoona Airport,Small airport,,Australia
+NZBA,,Balclutha Aerodrome,Small airport,Balclutha,New Zealand
+YBFR,,Balfour Airport,Small airport,,Australia
+YBGI,,Balgair Airport,Small airport,,Australia
+YBGO,BQW,Balgo Hill Airport,Small airport,Balgo,Australia
+YBAL,,Balladonia Airport,Small airport,,Australia
+AGGE,BAS,Ballalae Airport,Small airport,Ballalae,Solomon Islands
+YBLT,,Ballarat Airport,Small airport,,Australia
+YLLE,BBL,Ballera Airport,Small airport,,Australia
+YBIU,,Ballidu Airport,Small airport,,Australia
+YBMM,,Bamawm Airport,Small airport,,Australia
+YBBC,,Bamboo Creek Airport,Small airport,Bamboo Creek Gold Mine,Australia
+AYBC,BCP,Bambu Airport,Small airport,Bambu,Papua New Guinea
+AYBF,BMZ,Bamu Airport,Small airport,Bamu,Papua New Guinea
+YBMY,,Bamyili Airport,Small airport,,Australia
+YBJW,,Banjawarn Airport,Small airport,,Australia
+AYBJ,,Bank Airstrip,Small airport,Bank,Papua New Guinea
+YBNC,,Bannockburn Airport,Small airport,,Australia
+AYBP,BPD,Bapi Airstrip,Small airport,Bapi,Papua New Guinea
+YBAD,,Baradine Airport,Small airport,,Australia
+AGBA,VEV,Barakoma Airport,Small airport,Barakoma,Solomon Islands
+YBAB,,Baralaba,Small airport,Baralaba,Australia
+YBRY,BYP,Barimunya Airport,Small airport,,Australia
+YBAW,BKP,Barkly Downs Airport,Small airport,,Australia
+YBKS,,Barkly Wayside Inn Airport,Small airport,,Australia
+YBMR,,Barmera Airport,Small airport,,Australia
+YBBA,,Barraba Airport,Small airport,,Australia
+YBDX,,Barradale Airport,Small airport,,Australia
+YBRC,,Barrow Creek Airport,Small airport,,Australia
+YBWX,BWB,Barrow Island Airport,Small airport,,Australia
+YBTN,,Barton Siding Airport,Small airport,,Australia
+YBRS,,Barwon Heads Airport,Small airport,,Australia
+YBYL,,Baryulgil Airstrip,Small airport,Baryulgil,Australia
+YBTV,BVW,Batavia Downs Airport,Small airport,,Australia
+YBCR,,Batchelor Airport,Small airport,,Australia
+YBHB,,Bathurst Harbour Airport,Small airport,,Australia
+AYBT,,Batri Airstrip,Small airport,Batri,Papua New Guinea
+YBTS,,Battery Downs Airport,Small airport,,Australia
+AGBT,BPF,Batuna Aerodrome,Small airport,Batuna Mission Station,Solomon Islands
+YBAH,,Bauhinia Downs Airport,Small airport,,Australia
+YBYW,,Bayswater Airport,Small airport,,Australia
+YBEC,,Beacon Airport,Small airport,,Australia
+YBGB,BEE,Beagle Bay Airport,Small airport,Beagle Bay,Australia
+YBFT,,Beaufort,Small airport,,Australia
+YBEF,,Beaufort Airport,Small airport,,Australia
+YBDF,BDW,Bedford Downs Airport,Small airport,,Australia
+YBEW,,Beechworth Airport,Small airport,,Australia
+YBCH,,Beechworth Airport,Small airport,,Australia
+AYBS,,Begesin Airstrip,Small airport,Begesin,Papua New Guinea
+YELE,,Belele Airport,Small airport,,Australia
+YBLH,,Bellalie Airport,Small airport,,Australia
+YBEB,BXF,Bellburn Airstrip,Small airport,Pumululu National Park,Australia
+YBLU,,Bellevue Airport,Small airport,,Australia
+AGGB,BNY,Bellona/Anua Airport,Small airport,Anua,Solomon Islands
+YBRA,,Benambra Airport,Small airport,,Australia
+YBCB,,Bencubbin Airport,Small airport,,Australia
+YBDG,BXG,Bendigo Airport,Small airport,,Australia
+YBNM,,Benmara Airport,Small airport,,Australia
+AYBH,BSP,Bensbach Airport,Small airport,Bensbach,Papua New Guinea
+YBTK,,Bentinck Island Airport,Small airport,,Australia
+NGBR,BEZ,Beru Airport,Small airport,Beru,Kiribati
+YBEO,BTX,Betoota Airport,Small airport,,Australia
+YBEU,,Beulah 1 Airport,Small airport,,Australia
+YBEE,,Beverley Airport,Small airport,,Australia
+YBEV,,Beverley Airport,Small airport,,Australia
+YBYS,BVZ,Beverley Springs Airport,Small airport,,Australia
+AYBI,BWP,Bewani Airport,Small airport,Bewani,Papua New Guinea
+AYBL,BAA,Bialla Airport,Small airport,Bialla Matalilu Ewase,Papua New Guinea
+AYBQ,BPK,Biangabip Airport,Small airport,Biangabip,Papua New Guinea
+AYBR,BRP,Biaru Airport,Small airport,Biaru,Papua New Guinea
+YBBE,BBE,Big Bell Airport,Small airport,Big Bell,Australia
+YBIN,,Biggenden Airport,Small airport,,Australia
+AYIL,,Bili Airstrip,Small airport,Bili,Papua New Guinea
+YBBL,,Billabalong Airport,Small airport,,Australia
+YBLB,,Billabong Road House Airport,Small airport,,Australia
+YBIL,BIW,Billiluna Airport,Small airport,,Australia
+YBID,,Binda,Small airport,,Australia
+YBIA,,Bingara Airport,Small airport,,Australia
+AYBZ,XBN,Biniguni Airport,Small airport,Biniguni,Papua New Guinea
+YBGY,,Biniguy Airport,Small airport,,Australia
+YBIR,,Birchip Airport,Small airport,,Australia
+YBDU,,Birrindudu Airport,Small airport,,Australia
+YBDS,,Birthday Siding Airport,Small airport,,Australia
+YBIZ,BZP,Bizant Airport,Small airport,Lakefield National Park,Australia
+YBSR,,Blackstone Airport,Small airport,,Australia
+YBVL,,Blackville Airport,Small airport,,Australia
+AYBW,,Blackwara Airport,Small airport,,Papua New Guinea
+YBLM,,Blinman Airport,Small airport,,Australia
+YBMD,BFC,Bloomfield River Airport,Small airport,,Australia
+YBOT,,Boatman Airport,Small airport,,Australia
+YBOD,,Bodalla Airport,Small airport,,Australia
+AYBD,BNM,Bodinumu Airport,Small airport,Bodinumu,Papua New Guinea
+YBOG,,Boggabri Airport,Small airport,,Australia
+YBOI,GIC,Boigu Airport,Small airport,,Australia
+AYOI,,Boikoa Airstrip,Small airport,Boikoa,Papua New Guinea
+YBLG,,Bollards Lagoon Airport,Small airport,,Australia
+YBLL,BLS,Bollon Airport,Small airport,,Australia
+YBWR,BCK,Bolwarra Airport,Small airport,,Australia
+AYBO,BMH,Bomai Airport,Small airport,Bomai,Papua New Guinea
+YBOM,,Bombala Airport,Small airport,,Australia
+YBMO,,Bombala Airport,Small airport,,Australia
+YBBO,,Bon Bon Airport,Small airport,,Australia
+YBSP,,Bond Springs Airport,Small airport,,Australia
+YBYD,,Bonney Downs Station Airport,Small airport,,Australia
+YBCL,,Boolcarrol Station Airport,Small airport,,Australia
+YBOC,,Booleroo Centre Airport,Small airport,,Australia
+YBGD,OCM,Boolgeeda,Small airport,,Australia
+YBMI,,Boomi Airport,Small airport,,Australia
+YBOA,,Boonah Airport,Small airport,,Australia
+YBBT,,Boort Airport,Small airport,,Australia
+YBOY,,Booylgoo Springs Airport,Small airport,,Australia
+YBOV,,Border Village Airport,Small airport,Border Village,Australia
+YBOR,,Bordertown Airport,Small airport,Bordertown,Australia
+YBRL,BOX,Borroloola Airport,Small airport,,Australia
+AYET,BOT,Bosset Airport,Small airport,Bosset,Papua New Guinea
+YBEL,,Bothwell Airport,Small airport,,Australia
+NWWB,,Bourail - Poé Airport,Small airport,Bourail / Poé,New Caledonia
+AYBE,,Boure Airstrip,Small airport,Boure,Papua New Guinea
+YBWN,ZBO,Bowen Airport,Small airport,,Australia
+YBWO,,Bowen Downs Airport,Small airport,Upper Cornish Creek,Australia
+YBWT,,Bowthorn Airport,Small airport,,Australia
+YBOP,,Boyup Brook Airport,Small airport,,Australia
+YBAO,,Braidwood Airport,Small airport,,Australia
+YBPI,BMP,Brampton Island Airport,Small airport,,Australia
+YBXH,,Branxholme Airport,Small airport,,Australia
+YBZA,,Breeza Airport,Small airport,,Australia
+YBGR,,Bridgewater Airport,Small airport,,Australia
+YBDP,,Bridport Airport,Small airport,,Australia
+YBTD,,Brighton Downs Airport,Small airport,,Australia
+YBAF,ACF,Brisbane Archerfield Airport,Small airport,Brisbane,Australia
+YBWG,,Bronzewing Airport,Small airport,,Australia
+YBLD,,Brooklands Airport,Small airport,,Australia
+YBWS,,Browse Is Airport,Small airport,,Australia
+YBRO,,Bruce Rock Airport,Small airport,,Australia
+AYUG,,Brugam Airstrip,Small airport,Wa'ahun,Papua New Guinea
+YBNY,,Brunchilly Airport,Small airport,,Australia
+YBRU,BTD,Brunette Downs Airport,Small airport,,Australia
+YBYI,,Bruny Island Airport,Small airport,,Australia
+YBYA,,Bryah Airport,Small airport,,Australia
+AYUU,,Bu'u Airstrip,Small airport,Bu'u,Papua New Guinea
+NGUK,AAK,Buariki Airport,Small airport,Buariki,Kiribati
+YBGT,,Budgerygar Airport,Small airport,,Australia
+AYUI,UBI,Buin Airport,Small airport,Buin,Papua New Guinea
+YBUG,,Bulga Downs Station Airport,Small airport,,Australia
+YBUL,,Bulgunnia Airport,Small airport,,Australia
+YBWM,BIP,Bulimba Airport,Small airport,,Australia
+YBUX,,Bulleringa Airport,Small airport,,Australia
+YBVY,,Bullo River Valley Airport,Small airport,,Australia
+YBUO,,Bulloo Downs Station Airport,Small airport,,Australia
+AYBU,BUL,Bulolo Airport,Small airport,Bulolo,Papua New Guinea
+AYXB,,Buluwo Airstrip,Small airport,Buluwo,Papua New Guinea
+AYUN,,Bunam Airstrip,Small airport,Bunam,Papua New Guinea
+YBUN,BUY,Bunbury Airport,Small airport,,Australia
+YBUA,,Bundarra Airport,Small airport,,Australia
+AYDI,BNT,Bundi Airport,Small airport,Bundi,Papua New Guinea
+YBUU,,Bungle Bungle Airport,Small airport,Bungle Bungle,Australia
+AYUT,,Bunguwat Airstrip,Small airport,Bunguwat,Papua New Guinea
+AYNS,BXZ,Bunsil Airport,Small airport,Bunsil - Umboi Island,Papua New Guinea
+YBUY,,Bunyan Airfield,Small airport,,Australia
+YBUP,,Bunyip Airport,Small airport,,Australia
+YBWI,,Burdekin Falls Dam Airport,Small airport,,Australia
+YBKT,BUC,Burketown Airport,Small airport,,Australia
+YBUI,,Burnie Airport,Small airport,,Australia
+YBRJ,,Burren Junction Airport,Small airport,,Australia
+YBHK,,Bushy Park Airport,Small airport,,Australia
+AYIN,,Busilmin Airstrip,Small airport,Busilmin,Papua New Guinea
+YBLN,BQB,Busselton Regional Airport,Small airport,,Australia
+NGTU,BBG,Butaritari Atoll Airport,Small airport,Butaritari Atoll,Kiribati
+YBUC,,Butch Airport,Small airport,,Australia
+YBTT,,Buttabone Airport,Small airport,,Australia
+YBYR,,Byrock Airport,Small airport,,Australia
+YCAB,,Caboolture Airport,Small airport,,Australia
+YCUR,,Cabramurra Airport,Small airport,Cabramurra Township,Australia
+YCAJ,,Cadjebut Airport,Small airport,,Australia
+YCDH,,Cadney Homestead Airport,Small airport,,Australia
+YCAG,CGV,Caiguna Airport,Small airport,,Australia
+YCDV,,Caldervale Station Airport,Small airport,,Australia
+YCLE,,Callendale Airport,Small airport,,Australia
+YCAI,,Callion Airport,Small airport,,Australia
+YCDR,CUD,Caloundra Airport,Small airport,,Australia
+YCTS,,Calton Hills Airport,Small airport,,Australia
+YCVG,,Calvin Grove Airport,Small airport,,Australia
+YCMH,,Camden Haven Airport,Small airport,,Australia
+YCMK,,Camel Creek Airport,Small airport,,Australia
+YCFD,CFI,Camfield Airport,Small airport,,Australia
+YCMW,CML,Camooweal Airport,Small airport,,Australia
+YCNF,NIF,Camp Nifty Airport,Small airport,,Australia
+YCAE,,Campbell Town Airport,Small airport,,Australia
+NWWX,,Canala Airport,Small airport,Canala,New Caledonia
+YCNR,,Cann River Airport,Small airport,,Australia
+YCAM,,Cannington Station Airport,Small airport,,Australia
+YCAN,,Cannon Hill Community Airport,Small airport,Cannon Hill,Australia
+YCBE,CBY,Canobie Airport,Small airport,Canobie,Australia
+YCWW,,Canowindra Airport,Small airport,,Australia
+YCCK,,Canteen Creek Airport,Small airport,,Australia
+YCBN,CBI,Cape Barren Island Airport,Small airport,,Australia
+YCBO,,Cape Borda Airport,Small airport,,Australia
+YCCF,,Cape Crawford Airport,Small airport,,Australia
+YCPD,,Cape Don Airport,Small airport,,Australia
+YCFL,CQP,Cape Flattery Airport,Small airport,,Australia
+AYCG,CGC,Cape Gloucester Airport,Small airport,Cape Gloucester,Papua New Guinea
+YCLQ,,Cape Leveque Airport,Small airport,,Australia
+YCTY,,Cape Otway Airport,Small airport,,Australia
+YCWE,,Cape Wessels Airport,Small airport,,Australia
+YCEL,,Capella Airport,Small airport,Capella,Australia
+YCDT,,Carandotta Airport,Small airport,,Australia
+YCRA,,Carinda Airport,Small airport,,Australia
+YCNH,,Carnarmah Airport,Small airport,,Australia
+YCGI,,Carnegie Station Airport,Small airport,,Australia
+YCPN,CFP,Carpentaria Downs Airport,Small airport,Carpentaria Downs,Australia
+YCRT,,Carrieton Airport,Small airport,,Australia
+YCAS,CSI,Casino Airport,Small airport,,Australia
+YCSI,,Cassilis Rotherw Airport,Small airport,,Australia
+YCTN,,Casterton Airport,Small airport,,Australia
+YCAL,,Castlemaine Airport,Small airport,,Australia
+YBOO,,Catholic Agricultural College Bindoon Airstrip,Small airport,,Australia
+YCAC,CTR,Cattle Creek Airport,Small airport,,Australia
+NZCB,,Centre Bush Aerodrome,Small airport,Centre Bush,New Zealand
+YCNY,,Century Mine Airport,Small airport,,Australia
+YCES,,Ceres Airport,Small airport,,Australia
+YCVS,,Cervantes Airport,Small airport,,Australia
+YCNK,CES,Cessnock Airport,Small airport,,Australia
+YCHL,,Charlton Airport,Small airport,,Australia
+YCHT,CXT,Charters Towers Airport,Small airport,,Australia
+YCTH,,Chatsworth Airport,Small airport,,Australia
+YCWO,,Chatsworth Airport,Small airport,,Australia
+YCHB,CRH,Cherrabah Airport,Small airport,Cherrabah Homestead Resort,Australia
+YCDS,,Childers Airport,Small airport,,Australia
+YCHR,,Childra Airport,Small airport,,Australia
+YCGO,LLG,Chillagoe Airport,Small airport,,Australia
+AYCS,SQT,China Strait Airstrip,Small airport,Samarai Island,Papua New Guinea
+AGGC,CHY,Choiseul Bay Airport,Small airport,,Solomon Islands
+YCRK,CXQ,Christmas Creek Station Airport,Small airport,Christmas Creek,Australia
+AYCB,CVB,Chungribu Airport,Small airport,Chungribu,Papua New Guinea
+YZCE,,Churchable Airstrip,Small airport,Churchable,Australia
+NFCI,ICI,Cicia Airport,Small airport,Cicia,Fiji
+YCLA,,Clare Station Airport,Small airport,,Australia
+YCVA,,Clare Valley Aerodrome,Small airport,Clare,Australia
+YCKD,,Clarke Island Airport,Small airport,,Australia
+YCFN,,Clifton Airport,Small airport,,Australia
+YCFH,CFH,Clifton Hills Airport,Small airport,Clifton Hills,Australia
+YCGH,,Clonagh Airport,Small airport,,Australia
+YUNY,CZY,Cluny Airport,Small airport,,Australia
+YCDE,,Cobden Airport,Small airport,,Australia
+YCTI,,Cockatoo Island Airport,Small airport,,Australia
+YCKY,,Cocklebiddy Airport,Small airport,,Australia
+YCCT,CNC,Coconut Island Airport,Small airport,,Australia
+YCOF,,Coffin Bay Airport,Small airport,,Australia
+YCOH,,Cohuna Airport,Small airport,,Australia
+YOLA,XCO,Colac Airport,Small airport,,Australia
+YCEM,,Coldstream Airport,Small airport,Coldstream,Australia
+YCLY,,Coleambally Airport,Small airport,,Australia
+YCOL,,Coleraine Airport,Small airport,,Australia
+YCBR,CRB,Collarenebri Airport,Small airport,,Australia
+YCLT,,Collector Airport,Small airport,,Australia
+YCOI,CIE,Collie Airport,Small airport,Collie,Australia
+YCSV,KCE,Collinsville Airport,Small airport,,Australia
+YCLM,,Collymongle Airport,Small airport,,Australia
+YCWH,,Commonwealth Hill Airport,Small airport,,Australia
+YCNO,,Conargo Airport,Small airport,,Australia
+YCDO,CBX,Condobolin Airport,Small airport,,Australia
+YCNS,,Coniston Airport,Small airport,,Australia
+YCJU,,Conjuboy Airport,Small airport,,Australia
+YCSL,,Consuelo Airport,Small airport,,Australia
+YCOO,CDA,Cooinda Airport,Small airport,,Australia
+YOOK,,Cook Airport,Small airport,,Australia
+YCAH,CLH,Coolah Airport,Small airport,,Australia
+YCWY,COY,Coolawanyah Airport,Small airport,Coolawanyah Station,Australia
+YCLG,,Coolgardie Airport,Small airport,,Australia
+YCXA,,Cooloola Village Airpark,Small airport,,Australia
+YPFT,,Cooma/Polo Flat (Unlic) Airport,Small airport,,Australia
+YBCM,,Coominya,Small airport,,Australia
+YCNN,,Coonana Airport,Small airport,,Australia
+YCNQ,,Coonawarra Airport,Small airport,,Australia
+YCDB,,Coondambo Airport,Small airport,,Australia
+YCWA,CJF,Coondewanna Airport,Small airport,Coondewanna,Australia
+YCOG,,Coongan Airport,Small airport,,Australia
+YCNG,,Cooranga Airport,Small airport,,Australia
+YCNX,,Cooranga Airport,Small airport,,Australia
+YCPH,,Copper Hills Airport,Small airport,,Australia
+YCPP,,Copper Triangle Airport,Small airport,,Australia
+YCPG,,Coppins Gap Airport,Small airport,,Australia
+YCOY,,Coral Bay Airport,Small airport,,Australia
+YCOD,ODL,Cordillo Downs Airport,Small airport,Cordillo Downs,Australia
+NZCX,CMV,Coromandel Aerodrome,Small airport,,New Zealand
+YCNA,,Corona Station Airport,Small airport,,Australia
+YCWN,,Corowa Downs Airport,Small airport,,Australia
+YCIG,,Corrigin Airport,Small airport,,Australia
+YCOS,,Cosmo Newberry Airport,Small airport,,Australia
+YCTC,,Cotten Creek Airport,Small airport,,Australia
+YCWI,CWR,Cowarie Airport,Small airport,,Australia
+YCWL,CCW,Cowell Airport,Small airport,,Australia
+YCWS,,Cowes Airport,Small airport,,Australia
+YCDL,,Cradle Mountain Airport,Small airport,Middlesex,Australia
+NVSF,CCV,Craig Cove Airport,Small airport,Craig Cove,Vanuatu
+YCRN,,Cranbrook Airport,Small airport,,Australia
+YCKI,CKI,Croker Island Airport,Small airport,,Australia
+NZCS,,Cromwell Racecourse Aerodrome,Small airport,,New Zealand
+YCRL,,Crookwell Airport,Small airport,,Australia
+YCRY,CDQ,Croydon Airport,Small airport,,Australia
+YCYT,,Crystal Brook Airport,Small airport,,Australia
+TCYT,,Crystal Brook Airport,Small airport,,Australia
+YCUA,CUG,Cudal Airport,Small airport,,Australia
+YCUD,,Cuddapan Airport,Small airport,,Australia
+YCUE,CUY,Cue Airport,Small airport,,Australia
+YCUS,,Cummins Airport,Small airport,,Australia
+YCMM,,Cummins Town Airport,Small airport,,Australia
+YCUN,,Cunderdin Airport,Small airport,,Australia
+YCKA,,Curdimurka Airport,Small airport,,Australia
+YCSP,,Curtin Springs Airport,Small airport,,Australia
+YCUT,,Cuthero Airport,Small airport,,Australia
+YCFF,,Dadswells Bridge Airport,Small airport,,Australia
+YDAG,,Dagworth Airport,Small airport,,Australia
+AYDA,,Dahamo Airstrip,Small airport,Dahamo Village,Papua New Guinea
+YCBY,,Daintree Airport,Small airport,,Australia
+YDRC,,Dairy Creek Homestead Airport,Small airport,,Australia
+YDAJ,DJR,Dajarra Airport,Small airport,,Australia
+YDAY,DBY,Dalby Airport,Small airport,,Australia
+YDVE,,Dale River Airport,Small airport,,Australia
+YDGR,,Dalgaranga Airport,Small airport,,Australia
+YDGA,DGD,Dalgaranga Gold Mine Airport,Small airport,,Australia
+YDGT,,Dalgety Downs Station Airport,Small airport,,Australia
+YDLH,,Dalhousie Airport,Small airport,,Australia
+DALH,,Dalhousie Airport,Small airport,,Australia
+YDAL,,Dallas Airport,Small airport,,Australia
+YDWU,,Dalwallinu Airport,Small airport,,Australia
+YDMN,DVR,Daly River Airport,Small airport,,Australia
+YDLW,DYW,Daly Waters Airport,Small airport,Daly Waters,Australia
+NZDV,,Dannevirke Aerodrome,Small airport,,New Zealand
+NZDA,DGR,Dargaville Aerodrome,Small airport,,New Zealand
+YDAR,,Darlington Airport,Small airport,,Australia
+YDLO,,Darlot Airport,Small airport,,Australia
+YDNK,,Darnick Airport,Small airport,,Australia
+YDNI,NLF,Darnley Island Airport,Small airport,Darnley Island,Australia
+YDPD,DVP,Davenport Downs Airport,Small airport,,Australia
+YDGY,,De Grey Homestead Airport,Small airport,,Australia
+YDRL,,De Rose Hill Airport,Small airport,,Australia
+AYDB,DBP,Debepare Airport,Small airport,Debepare,Papua New Guinea
+YDPW,,Deep Well Airport,Small airport,,Australia
+YDWF,,Delamere Range Facility Airport,Small airport,,Australia
+YDMR,,Delamere Station Airport,Small airport,,Australia
+YDEA,,Delara Airfield,Small airport,Bulman,Australia
+YDEG,,Delegate Airport,Small airport,,Australia
+YDLV,DLV,Delissaville Airport,Small airport,,Australia
+YDLD,,Delmore Downs Airport,Small airport,,Australia
+YDLT,DDN,Delta Downs Airport,Small airport,,Australia
+YDEK,,Denmark Airport,Small airport,Denmark,Australia
+YDPT,,Depot Outcamp Airport,Small airport,,Australia
+YDPS,,Depot Springs Airport,Small airport,,Australia
+AYDE,DER,Derim Airport,Small airport,Derim,Papua New Guinea
+YDER,,Derrinallum Airport,Small airport,,Australia
+YDYD,,Derry Downs Airport,Small airport,,Australia
+YDEV,,Devoncourt Airport,Small airport,,Australia
+AYDW,,Dewara Airstrip,Small airport,Dewara,Papua New Guinea
+YDFD,,Dexfield Park,Small airport,Wauchope,Australia
+YDHL,,Dhalinbuy Airport,Small airport,,Australia
+YDMF,,Diemal Find Airport,Small airport,,Australia
+NVVD,DLY,Dillon's Bay Airport,Small airport,Dillon's Bay,Vanuatu
+YDIM,,Dimbulah Airport,Small airport,,Australia
+AYDQ,,Dimisisi Airstrip,Small airport,Dimisisi,Papua New Guinea
+AYDN,DNU,Dinangat Airport,Small airport,Dinangat,Papua New Guinea
+YDIX,DXD,Dixie Airport,Small airport,New Dixie,Australia
+YDPR,,Dneiper Airport,Small airport,,Australia
+AYDD,,Dobu Airstrip,Small airport,Dobu,Papua New Guinea
+YDOC,,Dochra Airfield,Small airport,Singleton,Australia
+YDVR,DKV,Docker River Airport,Small airport,,Australia
+AYDO,DOI,Doini Airport,Small airport,Castori Islets,Papua New Guinea
+YDOD,,Donald Airport,Small airport,,Australia
+YDRA,DOX,Dongara Airport,Small airport,,Australia
+YDOP,,Donnington Airpark,Small airport,,Australia
+YDOO,,Donors Hill Airport,Small airport,,Australia
+YDMG,DMD,Doomadgee Airport,Small airport,,Australia
+YDGN,DNG,Doongan Airport,Small airport,,Australia
+YDNB,,Doongmabulla Airport,Small airport,,Australia
+AYDR,DOO,Dorobisoro Airport,Small airport,Dorobisoro,Papua New Guinea
+YDOR,DRD,Dorunda Airport,Small airport,Dorunda Outstation,Australia
+YDON,,Dowerin Airport,Small airport,,Australia
+YDRN,,Drouin Airport,Small airport,Drouin,Australia
+YDDF,DFP,Drumduff Airport,Small airport,Drumduff,Australia
+YDRD,DRY,Drysdale River Airport,Small airport,,Australia
+YDRG,,Duaringa Airstrip,Small airport,Duaringa,Australia
+YDUK,,Duketon Airport,Small airport,,Australia
+YDLC,,Dulacca Airport,Small airport,,Australia
+YDLK,DLK,Dulkaninna Airport,Small airport,Dulkaninna,Australia
+YDGI,,Dullingari Airport,Small airport,,Australia
+YDUM,,Dumbleyung Airport,Small airport,,Australia
+YDBR,DNB,Dunbar Airport,Small airport,,Australia
+YDKI,DKI,Dunk Island Airport,Small airport,Dunk Island,Australia
+YDNR,,Dunmore Manila Airport,Small airport,,Australia
+YDLL,,Dunolly Airport,Small airport,,Australia
+YDUN,SRR,Dunwich Airport,Small airport,Stradbroke Island,Australia
+AYDM,,Duranmin Airstrip,Small airport,Duranmin,Papua New Guinea
+YDRH,DHD,Durham Downs Airport,Small airport,,Australia
+YDRI,DRR,Durrie Airport,Small airport,,Australia
+AYDS,,Dusin Airport,Small airport,Dusin,Papua New Guinea
+PKRO,,Dyess Army Air Field,Small airport,Roi-Namur,Marshall Islands
+YDNV,,Dynevor Downs Airport,Small airport,,Australia
+YERH,,Earaheedy Airport,Small airport,,Australia
+YELS,,Earlston Airport,Small airport,,Australia
+YEDE,,Edenhope Airport,Small airport,,Australia
+NWWO,IOU,Edmond Cané Airport,Small airport,Île Ouen,New Caledonia
+YEDM,,Edmund Station Airport,Small airport,,Australia
+AYED,XYR,Edwaki Airport,Small airport,Yellow River Mission,Papua New Guinea
+AYEF,EFG,Efogi Airport,Small airport,Efogi,Papua New Guinea
+YELW,,Eildon Weir Airport,Small airport,,Australia
+YEIN,EIH,Einasleigh Airport,Small airport,Einasleigh,Australia
+YEQO,,El Questro Airport,Small airport,,Australia
+YEES,,Elderslie Airport,Small airport,,Australia
+AYEM,,Eleme Airstrip,Small airport,Eleme,Papua New Guinea
+YELG,,Elengerah Airport,Small airport,,Australia
+AYEL,EPT,Eliptamin Airport,Small airport,Eliptamin,Papua New Guinea
+YELK,EKD,Elkedra Airport,Small airport,,Australia
+YELL,,Elliott Airport,Small airport,Elliott,Australia
+YELN,,Elliston Airport,Small airport,http://www.elliston.sa.gov.au,Australia
+YELM,,Elmore Airport,Small airport,,Australia
+AYEU,,Eloaua Airstrip,Small airport,Eloaua Island,Papua New Guinea
+YESE,ERQ,Elrose Airport,Small airport,Elrose Mine,Australia
+AYEB,EMS,Embessa Airport,Small airport,Embessa,Papua New Guinea
+AYEE,EMI,Emirau Airport,Small airport,Emirau Island,Papua New Guinea
+YMKT,,Emkaytee (Unlic) Airport,Small airport,Noonamah,Australia
+AYEO,EMO,Emo River Airstrip,Small airport,Emo Mission,Papua New Guinea
+YEMJ,,Emu Junction Airport,Small airport,,Australia
+YEMP,,Emu Park Airport,Small airport,,Australia
+YEEB,ENB,Eneabba Airport,Small airport,Eneabba,Australia
+AYEN,EGA,Engati Airstrip,Small airport,Engati,Papua New Guinea
+YEGA,,Engonnia Airport,Small airport,,Australia
+PKMA,ENT,Eniwetok Airport,Small airport,Eniwetok Atoll,Marshall Islands
+NCAT,AIU,Enua Airport,Small airport,Atiu Island,Cook Islands
+YEPR,,Epenarra Airport,Small airport,,Australia
+YEPL,,Epsilon Airport,Small airport,,Australia
+AYEV,ERE,Erave Airport,Small airport,Erave,Papua New Guinea
+YERL,EDD,Erldunda Airport,Small airport,,Australia
+YERN,ERB,Ernabella Airport,Small airport,,Australia
+YEMG,,Eromanga Airport,Small airport,,Australia
+YERO,,Erong Station Airport,Small airport,,Australia
+YERA,,Errabiddy Homestead Airport,Small airport,,Australia
+YERU,,Erudina Airport,Small airport,,Australia
+AYER,ERU,Erume Airport,Small airport,Erume,Papua New Guinea
+YESC,,Escott Airport,Small airport,,Australia
+YEDA,ETD,Etadunna Airport,Small airport,Etadunna,Australia
+YEAB,,Euabalong Airport,Small airport,,Australia
+YECL,EUC,Eucla Airport,Small airport,,Australia
+YEUD,,Eudamulla Station Airport,Small airport,,Australia
+YEUL,,Eulalia Airport,Small airport,,Australia
+YEUO,,Eulo Airport,Small airport,,Australia
+YEUA,,Euroa Aerodrome,Small airport,Euroa,Australia
+YEVA,EVD,Eva Downs Airport,Small airport,Eva Downs,Australia
+YEVD,EVH,Evans Head Aerodrome,Small airport,,Australia
+YEYD,,Evelyn Downs Airport,Small airport,,Australia
+YEVP,,Everard Park Airport,Small airport,,Australia
+YEXM,EXM,Exmouth Airport,Small airport,,Australia
+NTKF,FAC,Faaite Airport,Small airport,,French Polynesia
+NSFI,FGI,Fagali'i Airport,Small airport,Apia,Samoa
+YFVW,,Fairview Airport,Small airport,,Australia
+NTKH,FHZ,Fakahina Airport,Small airport,Fakahina,French Polynesia
+AYFA,FNE,Fane Airport,Small airport,Fane Mission,Papua New Guinea
+YFWY,,Faraway Bay Airport,Small airport,,Australia
+YFFT,,Farrell Flat Airport,Small airport,,Australia
+AYFS,,Fas Airstrip,Small airport,Fugari,Papua New Guinea
+YFDN,,Federation Hsd Airport,Small airport,,Australia
+NZFI,,Feilding Airport,Small airport,Feilding,New Zealand
+AGGF,FRE,Fera/Maringe Airport,Small airport,Fera Island,Solomon Islands
+AYFE,FRQ,Feramin Airport,Small airport,Feramin,Papua New Guinea
+YFNE,FIK,Finke Airport,Small airport,Finke,Australia
+YFIL,FLY,Finley Airport,Small airport,,Australia
+AYFI,FIN,Finschhafen Airport,Small airport,Buki,Papua New Guinea
+YFCK,,Fish Creek Airport,Small airport,,Australia
+YFSK,,Fiskville Airport,Small airport,Fiskville,Australia
+NZFT,,Flat Point Aerodrome,Small airport,,New Zealand
+YFLI,FLS,Flinders Island Airport,Small airport,Flinders Island,Australia
+YFLS,,Flinders Island Airport,Small airport,,Australia
+YFLO,FVL,Flora Valley Airport,Small airport,,Australia
+AYFO,,Fogomaiu Airstrip,Small airport,Fogomaiu,Papua New Guinea
+NVVJ,,Forari Airport,Small airport,Forari,Vanuatu
+NZFF,,Forest Field Aerodrome,Small airport,,New Zealand
+AYFK,,Foroko Airstrip,Small airport,Foroko,Papua New Guinea
+YFTA,,Forrestania Airport,Small airport,,Australia
+YFSA,,Forsayth Airport,Small airport,,Australia
+YFST,FOT,Forster (Wallis Is) Airport,Small airport,,Australia
+YFDF,KFE,Fortescue - Dave Forrest Aerodrome,Small airport,Cloudbreak Village,Australia
+YFCU,,Fortescue River Airport,Small airport,,Australia
+YFOR,,Fortnum Airport,Small airport,,Australia
+NZFP,,Foxpine Aerodrome,Small airport,,New Zealand
+YFRK,,Frankland Airport,Small airport,Frankland River Grazing co,Australia
+NZFJ,WHO,Franz Josef Aerodrome,Small airport,,New Zealand
+YFRG,,Fregon Airport,Small airport,,Australia
+AYFR,FAQ,Frieda River Airport,Small airport,Frieda River,Papua New Guinea
+YFRI,,Friendly Beaches Airport,Small airport,,Australia
+YFRD,,Frome Downs Airport,Small airport,,Australia
+AYFU,FUM,Fuma Airport,Small airport,Fuma,Papua New Guinea
+NVVF,FTA,Futuna Airport,Small airport,Futuna Island,Vanuatu
+YGOV,,Gabo Is aAd sSte Airport,Small airport,,Australia
+YGBO,,Gabo Island Airport,Small airport,,Australia
+NZGA,,Galatea Airfield,Small airport,,New Zealand
+YGDV,,Galdeville Airport,Small airport,,Australia
+YGLP,,Gallipolli Airport,Small airport,Nicholson,Australia
+YGWD,,Galway Downs Airport,Small airport,,Australia
+YGAM,GBP,Gamboola Airport,Small airport,,Australia
+YGAN,,Gan Gan Airport,Small airport,,Australia
+AYGI,GAR,Garaina Airport,Small airport,Garaina,Papua New Guinea
+AYGG,GRL,Garasa Airport,Small airport,Au,Papua New Guinea
+YGAD,,Garden Island (Military) Airport,Small airport,,Australia
+YGSC,GSC,Gascoyne Junction Airport,Small airport,Gascoyne Junction,Australia
+AYGT,GMI,Gasmata Island Airport,Small airport,Gasmata Island,Papua New Guinea
+AYGS,GBC,Gasuke Airport,Small airport,Gasuke,Papua New Guinea
+AGOK,GTA,Gatokae Airport,Small airport,Gatokae,Solomon Islands
+AYGQ,,Gawa Airstrip,Small airport,Gawa,Papua New Guinea
+YGAW,,Gawler Airport,Small airport,,Australia
+YGAY,GAH,Gayndah Airport,Small airport,,Australia
+YGLG,GEX,Geelong Airport,Small airport,,Australia
+AYGE,,Geigorobi Airstrip,Small airport,Geigorobi,Papua New Guinea
+AYGM,,Gema Airstrip,Small airport,Gema,Papua New Guinea
+YGTO,GEE,Georgetown (Tas) Airport,Small airport,,Australia
+YGTN,GTT,Georgetown Airport,Small airport,,Australia
+AGEV,GEF,Geva Airport,Small airport,Liangia,Solomon Islands
+AYGC,GEW,Gewoia Airport,Small airport,Gewoia,Papua New Guinea
+YGIB,GBV,Gibb River Airport,Small airport,,Australia
+YGID,,Gidgee Airport,Small airport,,Australia
+YGIF,,Gifford Creek Station Airport,Small airport,,Australia
+YGLS,,Giles Airport,Small airport,Warakurna,Australia
+YGPI,,Giles Point Airport,Small airport,,Australia
+YGIL,,Gilgandra Airport,Small airport,,Australia
+AYGD,,Gimi Airstrip,Small airport,Amusa,Papua New Guinea
+YGIA,GBW,Ginbata Airport,Small airport,Ginbata,Australia
+YGIR,,Giralia Airport,Small airport,,Australia
+YGGL,,Glen Garland Airport,Small airport,,Australia
+YGHG,,Glen Harding Airport - CLOSED,Small airport,,Australia
+YGRU,,Glen Ruth Airport,Small airport,,Australia
+YGLY,,Glenayle Homestead Airport,Small airport,,Australia
+YGLN,,Glencoe Airport,Small airport,,Australia
+YGLD,,Glendambo Airport,Small airport,,Australia
+YGVE,,Glendevie Airport,Small airport,,Australia
+YGLE,GLG,Glengyle Airport,Small airport,,Australia
+NZGY,,Glenorchy Airport,Small airport,,New Zealand
+YGLO,GLM,Glenormiston Airport,Small airport,,Australia
+YGCR,,Gloucester Airport,Small airport,,Australia
+YGAR,,Gnaraloo Station Airport,Small airport,,Australia
+YGNW,,Gnowangerup Airport,Small airport,,Australia
+AYGB,,Gobe Airport,Small airport,Gobe,Papua New Guinea
+AYGO,,Gokto Airstrip,Small airport,Gokto,Papua New Guinea
+YGGE,,Golden Grove Airport,Small airport,,Australia
+AYGL,GOE,Gonaili Airport,Small airport,Gonaili,Papua New Guinea
+YGDA,,Goodooga Airport,Small airport,,Australia
+YGGI,,Goolgowi Airport,Small airport,,Australia
+YGWA,,Goolwa Airport,Small airport,,Australia
+YGMD,,Goomadeer Airport,Small airport,,Australia
+YGOM,,Goomalling Airport,Small airport,,Australia
+YGDI,GOO,Goondiwindi Airport,Small airport,,Australia
+YGGO,,Goonoo Goonoo Airport,Small airport,,Australia
+AYGX,GOC,Gora Airstrip,Small airport,Gora,Papua New Guinea
+YGDN,GDD,Gordon Downs Airport,Small airport,Gordon Downs,Australia
+NZGC,,Gore3 Airport,Small airport,,New Zealand
+YCHK,CKW,Graeme Rowley Aerodrome,Small airport,Christmas Creek Mine,Australia
+YGMP,,Grampians Airport,Small airport,,Australia
+YGNA,,Granada Airport,Small airport,,Australia
+YGDW,GTS,Granite Downs Airport,Small airport,,Australia
+NZGB,GBZ,Great Barrier Aerodrome,Small airport,Claris,New Zealand
+YGKL,GKL,Great Keppel Is Airport,Small airport,Great Keppel Island,Australia
+YGRL,,Great Lakes Vi Airport,Small airport,,Australia
+NZGR,,Great Mercury Airport,Small airport,,New Zealand
+AYGV,GVI,Green River Airport,Small airport,Green River,Papua New Guinea
+YGAH,,Greenbah Airport,Small airport,,Australia
+YGTP,,Greenthorpe Airport,Small airport,,Australia
+YGNV,GVP,Greenvale Airport,Small airport,,Australia
+YGDS,GGD,Gregory Downs Airport,Small airport,,Australia
+YGGS,,Gregory Springs Airport,Small airport,,Australia
+YGNF,GFE,Grenfell Airport,Small airport,Grenfell,Australia
+NZGM,GMN,Greymouth Airport,Small airport,,New Zealand
+YGRD,,Grovedale Airport,Small airport,,Australia
+AYGF,GUG,Guari Airport,Small airport,Guari,Papua New Guinea
+AYGJ,GAZ,Guasopa Airport,Small airport,Woodlark (Muyua) Island,Papua New Guinea
+AYGY,,Guavi Airstrip,Small airport,Guavi,Papua New Guinea
+AYGZ,,Gubam Airstrip,Small airport,Gubam,Papua New Guinea
+AYUB,,Gubil Airstrip,Small airport,Bufripmin/Usareimin,Papua New Guinea
+AYGH,,Guhu Airstrip,Small airport,Guhu,Papua New Guinea
+AYUP,GLP,Gulgubip Airport,Small airport,Gulgubip,Papua New Guinea
+YGUL,,Gullewa Airport,Small airport,,Australia
+YGBW,,Gunbower Airport,Small airport,,Australia
+YGDO,,Gundaroo Airport,Small airport,,Australia
+YGUW,,Gunnawarra Airport,Small airport,,Australia
+YGPR,,Gunpowder Airport,Small airport,,Australia
+AYGP,GAP,Gusap Airport,Small airport,Gusap,Papua New Guinea
+AYGW,,Guwasa Airport,Small airport,Guwasa,Papua New Guinea
+AGGA,AKS,Gwaunaru'u Airport,Small airport,Auki,Solomon Islands
+YGYM,GYP,Gympie Airport,Small airport,,Australia
+NZHT,,Haast Aerodrome,Small airport,,New Zealand
+YHAA,,Haasts Bluff Airport,Small airport,,Australia
+AYHB,HBD,Habi Airport,Small airport,Habi,Papua New Guinea
+AYHN,,Habina Airstrip,Small airport,Habina,Papua New Guinea
+YHRG,,Haddon Rig Airport,Small airport,,Australia
+AYHG,HEO,Haelogo Airport,Small airport,Haelogo,Papua New Guinea
+AYHW,,Haewenai Airstrip,Small airport,Haewenai,Papua New Guinea
+AYHA,,Haia Airport,Small airport,,Papua New Guinea
+YHAG,,Haig Airport,Small airport,,Australia
+AYHO,HIT,Haivaro Airport,Small airport,Haivaro,Papua New Guinea
+YHMT,,Hamilton Airport,Small airport,,Australia
+NZHR,,Hanmer Springs Airport,Small airport,,New Zealand
+YHAE,,Harden Airport,Small airport,,Australia
+YHTS,,Harts Range Airport,Small airport,,Australia
+YHVH,,Harvest Home Airport,Small airport,,Australia
+NZHS,,Hastings Aerodrome,Small airport,Bridge Pa,New Zealand
+AYHQ,,Hauna Airstrip,Small airport,Hauna,Papua New Guinea
+AYHU,HWA,Hawabango Airport,Small airport,Hawabango,Papua New Guinea
+NZHA,,Hawera Airport,Small airport,Hawera,New Zealand
+AYHF,HYF,Hayfields Airport,Small airport,Bainyik,Papua New Guinea
+YHDY,HIP,Headingly Airport,Small airport,,Australia
+YHCT,,Heathcote Emergency Airport,Small airport,,Australia
+YHTL,HAT,Heathlands Airport,Small airport,,Australia
+YHEC,,Heck Field Airport,Small airport,,Australia
+YHEW,,Hedlow Airport,Small airport,Mulara,Australia
+AYHE,HNI,Heiweni Airport,Small airport,Heiweni,Papua New Guinea
+YHEG,,Hells Gate Airport,Small airport,,Australia
+YHBY,HRY,Henbury Airport,Small airport,,Australia
+YHTN,,Herberton Airport,Small airport,,Australia
+YHMB,HMG,Hermannsburg Airport,Small airport,,Australia
+AYHX,,Herowena Airstrip,Small airport,Herowana,Papua New Guinea
+AYHL,,Hesalibi Airstrip,Small airport,Hesalibi,Papua New Guinea
+AYHJ,,Hewa Airstrip,Small airport,Hewa,Papua New Guinea
+YHAB,,Hideaway Bay Airport,Small airport,,Australia
+YHHY,HIG,Highbury Airport,Small airport,,Australia
+NTGH,HHZ,Hikueru Atoll Airport,Small airport,Hikueru Atoll,French Polynesia
+YHLG,,Hillgrove Airport,Small airport,,Australia
+YHLM,,Hillman Farm Airport,Small airport,,Australia
+YHIL,HLL,Hillside Airport,Small airport,Hillside,Australia
+YHLS,,Hillston Airport,Small airport,,Australia
+YHTA,,Hiltaba Airport,Small airport,,Australia
+YCBG,,Hobart Cambridge Airport,Small airport,,Australia
+YHOV,,Hodgeson River Airfield,Small airport,Hodgeson River,Australia
+YHDD,,Hodgson Downs Airport,Small airport,,Australia
+YHBK,,Holbrook Airport,Small airport,,Australia
+YHOY,,Hollins Bay Airport,Small airport,,Australia
+YSHW,,Holsworthy (Military) Airport,Small airport,,Australia
+AYHH,HNN,Honinabi Airport,Small airport,Honinabi,Papua New Guinea
+YHOO,HOK,Hooker Creek Airport,Small airport,Lajamanu,Australia
+YHPV,HPE,Hope Vale Airport,Small airport,Hope Vale,Australia
+YHPE,,Hopetoun Airport,Small airport,,Australia
+YHSB,,Horseshoe Bend Airport,Small airport,,Australia
+YHSL,,Horseshoe Lights Airport,Small airport,,Australia
+AYHT,,Hotmin Airstrip,Small airport,Hotmin Mission,Papua New Guinea
+YHOA,,Howard Island Airport,Small airport,,Australia
+YJST,,Hubert Wilkins Airstrip,Small airport,Jamestown,Australia
+YHKT,,Huckitta Airport,Small airport,,Australia
+YHGR,,Hugh River Airport,Small airport,,Australia
+YHUG,HGD,Hughenden Airport,Small airport,,Australia
+YHGS,,Hughes Siding Airport,Small airport,,Australia
+YHBR,HUB,Humbert River Airport,Small airport,,Australia
+YHRD,,Hungerford Airport,Small airport,,Australia
+YHTR,,Hunter Island Airport,Small airport,,Australia
+AYHY,,Huya Airstrip,Small airport,Huya,Papua New Guinea
+YHYD,,Hyden Airport,Small airport,,Australia
+AYIU,IAL,Ialibu Airport,Small airport,Ialibu,Papua New Guinea
+AYIB,,Ibil Airstrip,Small airport,Ibil,Papua New Guinea
+YIDR,,Idracowra Airport,Small airport,,Australia
+YIFY,IFF,Iffley Airport,Small airport,,Australia
+AYIH,IHU,Ihu Airport,Small airport,Ihu,Papua New Guinea
+AYII,IMN,Imane Airport,Small airport,Imane,Papua New Guinea
+YIMA,,Imanpa Airport,Small airport,,Australia
+AYIO,IMD,Imonda Airport,Small airport,Imonda,Papua New Guinea
+YIMP,,Impadna Airport,Small airport,,Australia
+AYIR,,Inaru Airstrip,Small airport,Inaru,Papua New Guinea
+AYID,IDN,Indagen Airport,Small airport,Indagen,Papua New Guinea
+YIDK,IDK,Indulkana Airport,Small airport,,Australia
+YING,,Ingelara Airport,Small airport,Rewan,Australia
+YIGM,IGH,Ingham Airport,Small airport,,Australia
+YILW,,Inglewood Airport,Small airport,Inglewood,Australia
+YIGR,,Ingomar Airport,Small airport,,Australia
+YINJ,INJ,Injune Airport,Small airport,Injune,Australia
+YIKM,IKP,Inkerman Airport,Small airport,,Australia
+YINN,INM,Innamincka Airport,Small airport,,Australia
+YIMT,,Innamincka Township Airport,Small airport,Innamincka Township,Australia
+YISV,,Innesvale Airport,Small airport,,Australia
+YIFL,IFL,Innisfail Airport,Small airport,,Australia
+YINO,,Inverell North Airport,Small airport,,Australia
+YINV,,Inverleigh Airport,Small airport,,Australia
+YINW,IVW,Inverway Airport,Small airport,Inverway,Australia
+NVVI,IPA,Ipota Airport,Small airport,Ipota,Vanuatu
+AYIP,,Iropena Airstrip,Small airport,Iropena,Papua New Guinea
+AYIS,,Isan Airstrip,Small airport,Isan,Papua New Guinea
+YISD,,Isis Downs Airport,Small airport,,Australia
+YISF,ISI,Isisford Airport,Small airport,,Australia
+AYIT,,Iteri Airstrip,Small airport,Iteri,Papua New Guinea
+AYIK,ITK,Itokama Airport,Small airport,Itokama,Papua New Guinea
+YIVO,,Ivanhoe Airport,Small airport,,Australia
+YJAB,JAB,Jabiru Airport,Small airport,,Australia
+YJAK,,Jackson Airport,Small airport,,Australia
+YJCW,,Jacobs Well Airport,Small airport,,Australia
+AYJB,JAQ,Jacquinot Bay Airport,Small airport,Jacquinot Bay,Papua New Guinea
+YJAM,,Jameson Airport,Small airport,,Australia
+YJEY,,Jeedamya Airport,Small airport,,Australia
+YJEM,,Jemalong Airport,Small airport,,Australia
+YJCO,,Jericho Airport,Small airport,,Australia
+YJRO,,Jericho Airport,Small airport,,Australia
+YJER,,Jerilderie Airport,Small airport,,Australia
+YJGP,,Jerramungup Airport,Small airport,,Australia
+YJBY,,Jervis Bay Airport,Small airport,Jervis Bay Territory,Australia
+YJVS,,Jervois Airport,Small airport,,Australia
+YJVM,,Jervois Mine Airport,Small airport,,Australia
+YJIG,,Jiggalong Mission Airport,Small airport,,Australia
+YJIN,QJD,Jindabyne Airport,Small airport,,Australia
+YJNK,,Jinka Airport,Small airport,,Australia
+YJNY,,Jonroy Airport,Small airport,,Australia
+AYJS,JOP,Josephstaal Airport,Small airport,Josephstaal,Papua New Guinea
+YJWB,,Jowalbinna Airport,Small airport,,Australia
+YJLC,JCK,Julia Creek Airport,Small airport,,Australia
+YJDA,JUN,Jundah Airport,Small airport,,Australia
+YJUN,,Jundee Airport,Small airport,,Australia
+AYJL,,Junkaral Airstrip,Small airport,Junkaral,Papua New Guinea
+YJNB,JUR,Jurien Bay Airport,Small airport,,Australia
+AYOR,,Kabori Airstrip,Small airport,Kabori,Papua New Guinea
+AYKB,KBM,Kabwum,Small airport,,Papua New Guinea
+YKDI,,Kadina Airport,Small airport,,Australia
+AYKF,,Kafa Airstrip,Small airport,Kafa,Papua New Guinea
+AYKL,,Kafle Airstrip,Small airport,Kafle,Papua New Guinea
+AGKG,KGE,Kaghau Airport,Small airport,Kagau Island,Solomon Islands
+AYKQ,KGW,Kagi Airport,Small airport,Kagi,Papua New Guinea
+NFKB,,Kaibu Island Airport,Small airport,Kaibu Island,Fiji
+NZKO,KKO,Kaikohe Airport,Small airport,,New Zealand
+NZKI,KBZ,Kaikoura Airport,Small airport,,New Zealand
+AYKT,KZF,Kaintiba Airport,Small airport,Kaintiba,Papua New Guinea
+NZKF,,Kaipara Flats Airport,Small airport,,New Zealand
+AYKZ,,Kairiru Airstrip,Small airport,Kairiru Island,Papua New Guinea
+AYRK,RKU,Kairuku Airport,Small airport,Yule Island,Papua New Guinea
+YKIU,,Kaiuroo Airport,Small airport,,Australia
+YKAJ,,Kajabbi Airport,Small airport,,Australia
+AYRO,KOR,Kakoro(Koroko) Airstrip,Small airport,Kakoro,Papua New Guinea
+YKLR,,Kalamurina Airport,Small airport,,Australia
+YKAE,,Kalannie Airport,Small airport,,Australia
+YKBR,KAX,Kalbarri Airport,Small airport,Kalbarri,Australia
+YKLG,,Kalinga Airport,Small airport,,Australia
+YKKG,KFG,Kalkgurung Airport,Small airport,,Australia
+YKLL,,Kallala Airport,Small airport,,Australia
+YKPR,KPP,Kalpowar Airport,Small airport,Kalpower,Australia
+YKAL,UBU,Kalumburu Airport,Small airport,,Australia
+YKBL,KDB,Kambalda Airport,Small airport,Kambalda,Australia
+AYTO,KDQ,Kamberatoro Airport,Small airport,Kamberatoro Mission,Papua New Guinea
+YKML,KML,Kamileroi Airport,Small airport,,Australia
+AYKD,KMF,Kamina Airport,Small airport,Hoieti,Papua New Guinea
+AYKH,KAQ,Kamulai Airport,Small airport,Kamulai Mission,Papua New Guinea
+AYKS,KUY,Kamusi Airport,Small airport,Kamusi,Papua New Guinea
+AYNB,KEX,Kanabea Airport,Small airport,Kanabea,Papua New Guinea
+AYKJ,KNE,Kanainj Airport,Small airport,Kanainj,Papua New Guinea
+YKAN,,Kanandah Airport,Small airport,,Australia
+AYNN,KDP,Kandep Airport,Small airport,Kandep,Papua New Guinea
+AYKC,KDR,Kandrian Airport,Small airport,Kandrian,Papua New Guinea
+YKWG,,Kangaroo Well Airport,Small airport,,Australia
+YKNV,,Kaniva Airport,Small airport,,Australia
+AYNT,,Kantobo Airstrip,Small airport,Kantobo,Papua New Guinea
+AYPI,,Kapi Airstrip,Small airport,Kapi,Papua New Guinea
+YKAP,,Kapunda Airport,Small airport,Kapunda,Australia
+KAK,,Kar Airport,Small airport,Kar,Papua New Guinea
+AYKR,KRX,Kar Kar Airport,Small airport,Kar Kar Island,Papua New Guinea
+NZKM,,Karamea Airport,Small airport,,New Zealand
+AYQA,KRJ,Karawari Airstrip,Small airport,Amboin,Papua New Guinea
+AYRI,KMR,Karimui Airport,Small airport,Karimui,Papua New Guinea
+YKMB,KRB,Karumba Airport,Small airport,,Australia
+AYNM,KSB,Kasonombe Airport,Small airport,Kasonombe,Papua New Guinea
+YKNG,KNI,Katanning Airport,Small airport,,Australia
+YKHG,,Katherine Gorge Airport,Small airport,,Australia
+NTKT,KXU,Katiu Airport,Small airport,Katiu,French Polynesia
+YKAT,,Katoomba Airport,Small airport,,Australia
+NTKA,KHZ,Kauehi Airport,Small airport,Kauehi,French Polynesia
+NFTE,EUA,Kaufana Airport,Small airport,Eua Island,Tonga
+AYKW,KWO,Kawito Airport,Small airport,Kawito,Papua New Guinea
+YKAY,,Kayrunnera Airport,Small airport,,Australia
+AYLG,KEG,Keglsugl Airport,Small airport,Denglagu Mission,Papua New Guinea
+YKTH,,Keith Airport,Small airport,,Australia
+YKEB,,Kellerberrin Airport,Small airport,,Australia
+NZKC,,Kelly Field,Small airport,,New Zealand
+YKEL,,Kelvin Station Airport,Small airport,,Australia
+YKNC,,Kencherang Airport,Small airport,,Australia
+YKRV,,Kendall River Airport,Small airport,,Australia
+YKEN,,Kenmore Park Airport,Small airport,,Australia
+AYEA,KRU,Kerau Airport,Small airport,Gunim,Papua New Guinea
+YKHA,,Khancoban Airport,Small airport,,Australia
+YKIA,,Kiana Station Airport,Small airport,,Australia
+AYNQ,,Kibeni Airstrip,Small airport,Kibeni,Papua New Guinea
+AYLI,KII,Kibuli Airstrip,Small airport,Kibuli,Papua New Guinea
+YKDM,,Kidman Springs Airport,Small airport,,Australia
+YKID,,Kidston Airport,Small airport,,Australia
+AYKK,KRI,Kikori Airport,Small airport,Kikori,Papua New Guinea
+YKIL,,Kildurk Airport,Small airport,,Australia
+AYIF,,Kilifas Airstrip,Small airport,Kilifas,Papua New Guinea
+YKLE,,Killarney Airport,Small airport,,Australia
+YKLN,,Killarney Airport,Small airport,,Australia
+YKCK,,Killiecrankie Airport,Small airport,,Australia
+YIMB,,Kimba Airport,Small airport,,Australia
+YKFC,,Kingfisher Camp Airport,Small airport,,Australia
+YKGA,,Kingoonya Airport,Small airport,,Australia
+YKCA,KBJ,Kings Canyon Airport,Small airport,Kings Canyon Resort,Australia
+YKCS,KCS,Kings Creek Airport,Small airport,,Australia
+YKIG,,Kingston Airport,Small airport,,Australia
+YKNT,,Kintore Airport,Small airport,,Australia
+AYRA,KIQ,Kira Airport,Small airport,Kira,Papua New Guinea
+AYRT,,Kirinbit Airstrip,Small airport,Kirinbit,Papua New Guinea
+AYRW,,Kiriwo Airstrip,Small airport,Kiriwa,Papua New Guinea
+YKIR,KBB,Kirkimbie Station Airport,Small airport,Kirkimbie,Australia
+AYKI,UNG,Kiunga Airport,Small airport,Kiunga,Papua New Guinea
+AYLH,,Klauhau Airstrip,Small airport,Klauhau,Papua New Guinea
+AYON,KMB,Koinambe Airport,Small airport,Konambe,Papua New Guinea
+YKOJ,,Kojonup Airport,Small airport,,Australia
+YKKH,,Kokatha Airport,Small airport,,Australia
+AYKO,KKD,Kokoda Airport,Small airport,Kokoda,Papua New Guinea
+AYOL,KQL,Kol Airport,Small airport,Kol,Papua New Guinea
+YKOL,,Kolendo Airport,Small airport,,Australia
+AYOQ,KCJ,Komaio Airport,Small airport,Komaio,Papua New Guinea
+AYOK,HOC,Komako Airport,Small airport,Komako,Papua New Guinea
+AYOU,,Kombaku Airstrip,Small airport,Kombaku,Papua New Guinea
+AYOO,KOM,Komo-Manda Airport,Small airport,Komo,Papua New Guinea
+AYAQ,KPM,Kompiam Airport,Small airport,,Papua New Guinea
+YKDN,,Kondinin Airport,Small airport,,Australia
+AYDL,KPF,Kondobol Airport,Small airport,Kondobol,Papua New Guinea
+YKDL,,Kondoolka Airport,Small airport,,Australia
+AYOE,KGB,Konge Airport,Small airport,Konge,Papua New Guinea
+YKOK,,Kookynie Airport,Small airport,,Australia
+YKLA,KOH,Koolatah Airport,Small airport,,Australia
+YKLB,KKP,Koolburra Airport,Small airport,Koolburra,Australia
+YKBG,,Koolyanobbing Range Airport,Small airport,,Australia
+YKOG,,Koongarra Airport,Small airport,,Australia
+YKNM,,Koonmarra Airport,Small airport,,Australia
+YKBN,,Kooralbyn Airport,Small airport,,Australia
+AYKG,KPA,Kopiago Airport,Small airport,Kopiago,Papua New Guinea
+AYOZ,,Kora Airstrip,Small airport,Kora,Papua New Guinea
+OZKL,,Koralta Station Airpirt,Small airport,,Australia
+NFNO,KXF,Koro Island Airport,Small airport,Koro Island,Fiji
+AYOW,KDE,Koroba Airport,Small airport,Koroba,Papua New Guinea
+AYOS,,Kosimbi Airstrip,Small airport,Kosimbi Mission,Papua New Guinea
+AYOP,KSP,Kosipe Airport,Small airport,Kosipe Mission,Papua New Guinea
+YKTA,,Kotta Airport,Small airport,,Australia
+NZKY,,Kowhai Aerodrome,Small airport,,New Zealand
+YKUB,KUG,Kubin Airport,Small airport,Moa Island,Australia
+AYKN,,Kubuna Airstrip,Small airport,Kubuna Mission,Papua New Guinea
+NFTP,NTT,Kuini Lavenia Airport,Small airport,Niuatoputapu,Tonga
+AGKU,KUE,Kukudu Airport,Small airport,Kolombangara Island,Solomon Islands
+AYUQ,,Kumbwareta Airstrip,Small airport,Kumbwareta,Papua New Guinea
+AYIM,KGM,Kungim Airport,Small airport,Kungim,Papua New Guinea
+YKNP,,Kununoppin Airport,Small airport,,Australia
+AYKU,KUQ,Kuri Airport,Small airport,Kuri,Papua New Guinea
+NGKT,KUC,Kuria Airport,Small airport,Kuria,Kiribati
+YKUY,,Kurray Airport,Small airport,,Australia
+YRKE,,Kuruc-A-Ruc South Airport,Small airport,,Australia
+YKUR,KRD,Kurundi Airport,Small airport,Kurundi Station,Australia
+YKUW,,Kurweeton Airport,Small airport,,Australia
+AYUY,KUX,Kuyol Airport,Small airport,,Papua New Guinea
+AGKW,KWS,Kwailabesi Airport,Small airport,Kwailabesi,Solomon Islands
+AYFW,,Kwieftim Airstrip,Small airport,Kwieftim,Papua New Guinea
+AYOA,,Kwomtari Airstrip,Small airport,Kwomtari,Papua New Guinea
+YKYB,,Kyabram Airport,Small airport,Private Airfield in the Shire of Campaspe,Australia
+YKTN,,Kyneton Airport,Small airport,Kyneton,Australia
+YKYN,,Kynuna Airport,Small airport,,Australia
+YLGB,,La Grange Bay Airport,Small airport,,Australia
+AYLB,LAB,Lab Lab Airport,Small airport,Lab Lab Mission,Papua New Guinea
+YLDB,,Lady Barron (Flinders Is) Airport,Small airport,,Australia
+YLGL,,Laglan Airport,Small airport,,Australia
+AYLQ,,Lagoon Airstrip,Small airport,Lagoon,Papua New Guinea
+YLAG,,Lagoon Bay Airport,Small airport,,Australia
+YLBO,,Lake Bolac Airport,Small airport,,Australia
+AYLC,,Lake Campbell Airstrip,Small airport,Lake Campbell,Papua New Guinea
+YLCG,,Lake Cargelligo Airport,Small airport,,Australia
+YLEV,LEL,Lake Evella Airport,Small airport,,Australia
+YLVD,,Lake Everard Airport,Small airport,,Australia
+YLGC,,Lake Grace Airport,Small airport,,Australia
+NZHP,,Lake Haupiri/Gloriavale Christian Community Airport,Small airport,,New Zealand
+YKEP,,Lake Keepit Airport,Small airport,,Australia
+YLKG,,Lake King Airport,Small airport,,Australia
+YLLR,,Lake Leagur Airport,Small airport,,Australia
+YLMQ,BEO,Lake Macquarie Airport,Small airport,,Australia
+AYLM,LMY,Lake Murray Airport,Small airport,Lake Murray,Papua New Guinea
+YLKN,LNH,Lake Nash Airport,Small airport,Alpurrurulam,Australia
+NZLE,,Lake Station Airport,Small airport,,New Zealand
+YLVY,,Lake Varley Airport,Small airport,,Australia
+YLWY,,Lake Way Airport,Small airport,,Australia
+NFNK,LKB,Lakeba Island Airport,Small airport,Lakeba Island,Fiji
+YLFD,LFP,Lakefield Airport,Small airport,Lakefield,Australia
+YLND,LKD,Lakeland Airport,Small airport,Lakeland Downs,Australia
+YLET,,Lakes Entrance Airport,Small airport,,Australia
+YLKE,,Lakes Entrance Airport,Small airport,,Australia
+YLAK,,Lakeside Airpark,Small airport,Lakeside,Australia
+NVSL,LPM,Lamap Airport,Small airport,Lamap,Vanuatu
+YLAM,,Lambina Airport,Small airport,,Australia
+YLMB,,Lambrook Airport,Small airport,,Australia
+NVSM,LNB,Lamen Bay Airport,Small airport,Lamen Bay,Vanuatu
+YLAO,,Lameroo Airport,Small airport,,Australia
+YLNR,,Landor Races Airport,Small airport,,Australia
+YLDO,,Landor Station Airport,Small airport,,Australia
+YLAN,,Langawirra Airport,Small airport,,Australia
+AYLN,LNM,Langimar Airport,Small airport,,Papua New Guinea
+YLLD,,Langlo Downs Airport,Small airport,,Australia
+YLSS,,Lansdowne Airport,Small airport,,Australia
+NFNH,LUC,Laucala Island Airport,Small airport,Laucala Island,Fiji
+YLRA,LUU,Laura Airport,Small airport,,Australia
+YLVK,,Laverak (Military) Airport,Small airport,,Australia
+YLTN,LVO,Laverton Airport,Small airport,,Australia
+YLAW,,Lawlers Airport,Small airport,,Australia
+YLAH,LWH,Lawn Hill Airport,Small airport,,Australia
+YLEA,,Leeman Airport,Small airport,,Australia
+YLEE,,Leeton Airport,Small airport,,Australia
+YLUW,,Leeuwin Estate Airport,Small airport,,Australia
+YLGU,,Legune Airport,Small airport,,Australia
+AYLE,,Lele Airstrip,Small airport,Leli,Papua New Guinea
+NVVK,,Lenakel Airport,Small airport,Lenakel,Vanuatu
+AYLT,LNC,Lengbati Airport,Small airport,,Papua New Guinea
+YLEG,,Leongatha Airport,Small airport,,Australia
+AYLP,LPN,Leron Plains Airport,Small airport,Leron Plains,Papua New Guinea
+AYLS,LNG,Lese Airport,Small airport,Lese,Papua New Guinea
+YLED,,Lethbridge Airpark,Small airport,,Australia
+NFNB,LEV,Levuka Airfield,Small airport,Bureta,Fiji
+YLLC,,Lilla Creek Airport,Small airport,,Australia
+YLLV,,Lily Vale Airport,Small airport,,Australia
+YLIL,,Lilydale Airport,Small airport,,Australia
+YLIM,LIB,Limbunya Airport,Small airport,Limbunya,Australia
+NZLD,,Limestone Downs Airport,Small airport,Limestone Downs,New Zealand
+YLIN,LDC,Lindeman Island Airport,Small airport,Lindeman Island,Australia
+AYLL,LGN,Linga Linga Airport,Small airport,Linga Linga,Papua New Guinea
+YLSM,,Lismore Airport,Small airport,,Australia
+YLZI,LZR,Lizard Island Airport,Small airport,,Australia
+YLOC,,Lochinvar Airport,Small airport,,Australia
+YLOK,LOC,Lock Airport,Small airport,Lock,Australia
+YLCS,,Locksley Field,Small airport,,Australia
+LGRS,,Logan Reserve Airport,Small airport,,Australia
+YLBD,,Lombadina Airport,Small airport,,Australia
+AYKY,LNV,Londolovit Airport,Small airport,Londolovit,Papua New Guinea
+YLHL,,Long Hill Airport,Small airport,,Australia
+AYLX,LSJ,Long Island Airport,Small airport,Long Island,Papua New Guinea
+NVSG,LOD,Longana Airport,Small airport,Longana,Vanuatu
+YLGD,,Longdown Airport,Small airport,,Australia
+YLOY,,Longwarry Airport,Small airport,,Australia
+YLOD,,Longwood Airport,Small airport,,Australia
+NVSO,LNE,Lonorore Airport,Small airport,Lonorore,Vanuatu
+YLGN,,Loongana Airport,Small airport,,Australia
+YLHI,LDH,Lord Howe Island Airport,Small airport,Lord Howe Island,Australia
+YLRG,,Lorna Glen Homestead Airport,Small airport,,Australia
+YLOR,LOA,Lorraine Airport,Small airport,,Australia
+YLRN,,Lorraine Station Airport,Small airport,,Australia
+AYKA,LSA,Losuia Airport,Small airport,Losuia,Papua New Guinea
+YLOV,LTV,Lotus Vale Airport,Small airport,Lotus Vale,Australia
+YLOU,,Louisa Downs Airport,Small airport,,Australia
+YLOH,,Louth Airport,Small airport,Louth,Australia
+YLVB,,Lovely Banks Airport,Small airport,,Australia
+AYLO,LWI,Lowai Airport,Small airport,Lowai,Papua New Guinea
+YLOX,,Loxton Airport,Small airport,,Australia
+YLUI,,Lucindale Airport,Small airport,,Australia
+YLKD,,Lucky Downs Airport,Small airport,,Australia
+YLUC,,Lucy Creek Airport,Small airport,,Australia
+AYLU,LMI,Lumi Airport,Small airport,Lumi,Papua New Guinea
+AYLF,,Lumusa Airstrip,Small airport,Lumusa,Papua New Guinea
+YLHS,LTP,Lyndhurst Airport,Small airport,Lyndhurst,Australia
+YLYD,,Lyndley Airport,Small airport,,Australia
+YLYK,,Lyndoch Airport,Small airport,,Australia
+YLYN,,Lyndon Airport,Small airport,,Australia
+YMAK,,Mabel Creek Station Airport,Small airport,,Australia
+YMAA,UBB,Mabuiag Island Airport,Small airport,Mabuiag Island,Australia
+YMDS,MNW,Macdonald Downs Airport,Small airport,,Australia
+YMCS,,Macrossan Airport,Small airport,,Australia
+YMAC,,Macumba Airport,Small airport,,Australia
+YMAD,,Madura Airport,Small airport,,Australia
+NVSN,MWF,Maewo-Naone Airport,Small airport,Maewo Island,Vanuatu
+YMWO,,Mahanewo Airport,Small airport,,Australia
+NGMA,MNK,Maiana Airport,Small airport,Maiana,Kiribati
+YMLD,,Maitland Airport,Small airport,,Australia
+YMND,MTL,Maitland Airport,Small airport,,Australia
+YMDW,,Maitland Downs Airport,Small airport,,Australia
+NZMW,,Makarora Airstrip,Small airport,,New Zealand
+NGMN,MTK,Makin Island Airport,Small airport,Makin Island,Kiribati
+AYMJ,MPG,Makini Airport,Small airport,Makini,Papua New Guinea
+AYMM,MMV,Mal Airport,Small airport,Mal Island,Papua New Guinea
+AYMP,MLQ,Malalaua Airport,Small airport,Malalaua,Papua New Guinea
+AYMQ,MQO,Malam Airport,Small airport,Malam,Papua New Guinea
+AYMV,MKN,Malekolon Airport,Small airport,Babase Island,Papua New Guinea
+YMLA,,Malina Airport,Small airport,,Australia
+YMCO,XMC,Mallacoota Airport,Small airport,,Australia
+YMYH,,Mallapunyah Springs Airport,Small airport,,Australia
+NFFO,PTF,Malolo Lailai Island Airport,Small airport,Malolo Lailai Island,Fiji
+NFMA,MNF,Mana Island Airport,Small airport,Mana Island,Fiji
+YMAG,,Manangatang Airport,Small airport,,Australia
+AYMA,MRM,Manari Airport,Small airport,Manari,Papua New Guinea
+NZVL,,Mandeville Aerodrome,Small airport,,New Zealand
+YMDI,MQA,Mandora Airport,Small airport,Mandora,Australia
+YMNO,,Maneroo Airport,Small airport,,Australia
+YMNF,,Manfred Airport,Small airport,,Australia
+NCMG,MGS,Mangaia Island Airport,Small airport,Mangaia Island,Cook Islands
+YMNG,,Mangalore Airport,Small airport,,Australia
+YMVM,,Mangrove Mountain Airport,Small airport,Mangrove Mountain,Australia
+AYNG,MFO,Manguna Airport,Small airport,Manguna,Papua New Guinea
+YMAI,,Manguri Airport,Small airport,,Australia
+NCMH,MHX,Manihiki Island Airport,Small airport,Manihiki Island,Cook Islands
+YMJM,MJP,Manjimup Airport,Small airport,,Australia
+YMCR,MFP,Manners Creek Airport,Small airport,,Australia
+YMFD,,Mansfield Airport,Small airport,,Australia
+NCMN,,Manuae Airport,Small airport,Manuae,Cook Islands
+NSMA,MXS,Maota Airport,Small airport,Maota,Samoa
+AYPO,MPF,Mapoda Airport,Small airport,Mapoda,Papua New Guinea
+AYMZ,MPU,Mapua(Mabua) Airport,Small airport,Tatau Island,Papua New Guinea
+NGMK,MZK,Marakei Airport,Small airport,Marakei,Kiribati
+AYRL,,Maralina Airstrip,Small airport,Maralina,Papua New Guinea
+YMRA,,Maralinga Airport,Small airport,,Australia
+AYRM,MWI,Maramuni Airport,Small airport,Maramuni,Papua New Guinea
+YMKA,,Mararanka Homestead Airport,Small airport,,Australia
+AGGU,RUS,Marau Airport,Small airport,Marau,Solomon Islands
+AYMW,MWG,Marawaka Airport,Small airport,Marawaka,Papua New Guinea
+YMBL,MBB,Marble Bar Airport,Small airport,,Australia
+YMDZ,,Mardi Station Airport,Small airport,,Australia
+YMGR,MGV,Margaret River (Station) Airport,Small airport,,Australia
+YMGT,MQZ,Margaret River Airport,Small airport,,Australia
+YMWX,MXD,Marion Downs Airport,Small airport,Marion Downs,Australia
+YALA,MRP,Marla Airport,Small airport,,Australia
+YMQA,MQE,Marqua Airport,Small airport,Marqua,Australia
+YMRE,RRE,Marree Airport,Small airport,,Australia
+NZMT,,Martinborough Airport,Small airport,Martinborough,New Zealand
+NZMJ,,Martins Bay Aerodrome,Small airport,,New Zealand
+YMTW,,Martins Well Airport,Small airport,,Australia
+NTGS,,Marutea Airport,Small airport,Auorotini,French Polynesia
+YMVH,,Marvel Loch Airport,Small airport,,Australia
+YMYY,,Mary Valley Airport,Small airport,,Australia
+YMBU,,Maryborough Airport,Small airport,,Australia
+YMYB,MBH,Maryborough Airport,Small airport,Maryborough,Australia
+YMYI,,Marymia Airport,Small airport,,Australia
+YMYV,,Maryvale Airport,Small airport,,Australia
+AYSX,MBV,Masa Airport,Small airport,Masa,Papua New Guinea
+NFTO,NFO,Mata'aho Airport,Small airport,Angaha Niuafo'ou Island,Tonga
+NZMZ,,Matakana Island Airport,Small airport,Matakana Island,New Zealand
+NZMA,MTA,Matamata Glider Airport,Small airport,,New Zealand
+NZAG,,Matarangi Airport,Small airport,,New Zealand
+NFNM,TVU,Matei Airport,Small airport,Matei,Fiji
+NCMK,MUK,Mauke Airport,Small airport,Mauke Island,Cook Islands
+AYRV,MRH,May River Airstrip,Small airport,May River,Papua New Guinea
+YMHU,MCV,McArthur River Mine Airport,Small airport,McArthur River Mine,Australia
+YMCK,,Mckinley Airport,Small airport,,Australia
+YMRS,,Melrose Airport,Small airport,,Australia
+YMEL,,Melton Airport,Small airport,Melton,Australia
+AYEK,,Membok Airstrip,Small airport,Membok,Papua New Guinea
+AYEG,,Mengina Airstrip,Small airport,Mengina,Papua New Guinea
+YMED,,Menindee Airport,Small airport,,Australia
+YNIN,,Meningie Airport,Small airport,,Australia
+AYMC,MYX,Menyamya Airport,Small airport,Menyamya,Papua New Guinea
+YMZI,,Menzies Airport,Small airport,,Australia
+YMEP,,Merapah Airport,Small airport,,Australia
+NZME,,Mercer1 PDZ Airport,Small airport,,New Zealand
+YMEI,,Mereenie Airport,Small airport,,Australia
+YMEU,MLV,Merluna Airport,Small airport,Merluna,Australia
+YMDN,,Merredin Airport,Small airport,,Australia
+YMEO,,Merton Airport,Small airport,Merton,Australia
+YMYT,RTY,Merty Merty Airport,Small airport,,Australia
+AYES,MFZ,Meselia Airport,Small airport,Demgulu,Papua New Guinea
+YMIX,,Middalya Homestead Airport,Small airport,,Australia
+YMMU,MMM,Middlemount Airport,Small airport,,Australia
+YILA,,Milawa Vineyard Airport,Small airport,,Australia
+AYEI,,Milei Airstrip,Small airport,Milei,Papua New Guinea
+YMLS,WLE,Miles Airport,Small airport,,Australia
+YMUX,,Mileura Airport,Small airport,,Australia
+NZMF,MFN,Milford Sound Airport,Small airport,,New Zealand
+YMIL,,Milgun Airport,Small airport,,Australia
+MLIP,MIJ,Mili Island Airport,Small airport,Mili Island,Marshall Islands
+YMGB,MGT,Milingimbi Airport,Small airport,Milingimbi Island,Australia
+YMCT,MLR,Millicent Airport,Small airport,,Australia
+YMMN,,Millmerran Airport,Small airport,,Australia
+YMIS,,Millrose Homestead Airport,Small airport,,Australia
+YMST,,Millstream Station Field,Small airport,Chichester National Park,Australia
+YMLL,,Millungera Airport,Small airport,,Australia
+YMPK,,Milton Park Airport,Small airport,,Australia
+YMLX,,Milurie Homestead Airport,Small airport,,Australia
+YMDR,,Minderoo Station Airport,Small airport,,Australia
+AYMI,MXK,Mindik Airport,Small airport,Mindik,Papua New Guinea
+YMEW,,Mingenew Airport,Small airport,,Australia
+YMIJ,,Minjilang Airport,Small airport,,Australia
+YMIN,XML,Minlaton Airport,Small airport,,Australia
+YMLK,,Minnamoolka Airport,Small airport,,Australia
+YMPA,MIN,Minnipa Airport,Small airport,,Australia
+YMIB,,Mintabie Airport,Small airport,,Australia
+YMNX,,Minura Airport,Small airport,,Australia
+YMIR,,Miralwyn Airport,Small airport,,Australia
+YMIR,MWY,Miranda Downs Airport,Small airport,Miranda Downs,Australia
+AYEY,,Mirsey Airstrip,Small airport,Mirsey,Papua New Guinea
+AYMS,MIS,Misima Island Airport,Small airport,Misima Island,Papua New Guinea
+YMIT,MTQ,Mitchell Airport,Small airport,,Australia
+YMIP,MIH,Mitchell Plateau Airport,Small airport,Mitchell Plateau,Australia
+NCMR,MOI,Mitiaro Island Airport,Small airport,Mitiaro Island,Cook Islands
+YITT,,Mitta Mitta Airport,Small airport,,Australia
+YMIG,,Mittagong Airport,Small airport,,Australia
+YMTA,MIY,Mittebah Airport,Small airport,,Australia
+AYIY,MPX,Miyanmin Airport,Small airport,Miyanmin,Papua New Guinea
+NFMO,MFJ,Moala Airport,Small airport,Moala,Fiji
+YLLA,,Mobella Airport,Small airport,,Australia
+AYOX,,Moi Airstrip,Small airport,Moi,Papua New Guinea
+AYMK,,Mok Airport,Small airport,Mok,Papua New Guinea
+YMLC,,Mole Creek Airport,Small airport,,Australia
+NZML,,Molesworth Airport,Small airport,Molesworth,New Zealand
+YMUA,,Monduran Airport,Small airport,,Australia
+YMNK,ONR,Monkira Airport,Small airport,,Australia
+AGGO,MNY,Mono Airport,Small airport,Stirling Island,Solomon Islands
+YMLN,,Monolon Airport,Small airport,,Australia
+YMTO,MNQ,Monto Airport,Small airport,,Australia
+YMWT,MWT,Moolawatana Airport,Small airport,Moolawatana Station,Australia
+YLUL,,Mooleulooloo Airport,Small airport,,Australia
+YOOO,,Mooloola Homestead Airport,Small airport,,Australia
+YOOM,MOO,Moomba Airport,Small airport,,Australia
+YMOE,,Moonaree Airport,Small airport,,Australia
+YORA,,Moonerah Airport,Small airport,,Australia
+YMOO,OOR,Mooraberree Airport,Small airport,,Australia
+YMRW,MWB,Morawa Airport,Small airport,,Australia
+AYEH,MHY,Morehead Airport,Small airport,Morehead,Papua New Guinea
+YMOT,MET,Moreton Airport,Small airport,Moreton,Australia
+YMNY,OXY,Morney Airport,Small airport,,Australia
+YMTI,ONG,Mornington Island Airport,Small airport,,Australia
+YMNT,,Mornington Station Airport,Small airport,,Australia
+AYMR,MXH,Moro Airport,Small airport,Moro,Papua New Guinea
+AYMB,OBM,Morobe Airport,Small airport,Morobe,Papua New Guinea
+YMVN,,Morven Airport,Small airport,,Australia
+NVSA,MTV,Mota Lava Airport,Small airport,Ablow,Vanuatu
+NZOI,,Motiti Island Airport,Small airport,Motiti Island,New Zealand
+NZKD,,Motu Kaikoura Island Aerodrome,Small airport,Kaikoura Island,New Zealand
+NZMK,MZP,Motueka Airport,Small airport,,New Zealand
+AYML,GUV,Mougulu Airport,Small airport,Mougulu,Papua New Guinea
+YMOM,,Moulamein Airport,Small airport,Moulamein,Australia
+YMNA,,Mount Allan Airport,Small airport,,Australia
+AYAE,UAE,Mount Aue Airport,Small airport,,Papua New Guinea
+YMAU,,Mount Augusta Airport,Small airport,,Australia
+YBAN,,Mount Barnet Airport,Small airport,,Australia
+YMNB,,Mount Barry Airport,Small airport,,Australia
+YMBT,,Mount Beauty Airport,Small airport,Mount Beauty,Australia
+YMUE,,Mount Borradale Airport,Small airport,,Australia
+YMDY,,Mount Bundey Airport,Small airport,,Australia
+YMVG,MKV,Mount Cavenagh Airport,Small airport,,Australia
+YMTC,,Mount Clarence Airport,Small airport,,Australia
+YMCE,,Mount Clere Homestead Airport,Small airport,,Australia
+YMCL,,Mount Coolon Airport,Small airport,,Australia
+YMPE,,Mount Cooper Airport,Small airport,,Australia
+YMTX,,Mount Dare Airport,Small airport,,Australia
+YMDV,,Mount Davies Airport,Small airport,,Australia
+YMNN,,Mount Denison Airport,Small airport,,Australia
+YDME,,Mount Dimer Airport,Small airport,,Australia
+YMEB,,Mount Eba Airport,Small airport,,Australia
+YMBZ,,Mount Ebenezer Airport,Small airport,,Australia
+YMPH,,Mount Elephant Airport,Small airport,,Australia
+YMTZ,,Mount Elizabeth Airport,Small airport,,Australia
+YFTN,,Mount Fitton Talc Airport,Small airport,,Australia
+YWDV,MFL,Mount Full Stop Airport,Small airport,Wando Vale,Australia
+YMRT,,Mount Garnet Airport,Small airport,,Australia
+YGON,GPD,Mount Gordon Airport,Small airport,Mount Gordon Mine,Australia
+YMGN,GSN,Mount Gunson Airport,Small airport,Mount Gunson,Australia
+YMHT,,Mount Hart Station Airport,Small airport,,Australia
+YMHL,,Mount Holland Airport,Small airport,,Australia
+YMTP,,Mount Hope Airport,Small airport,,Australia
+YMHO,MHO,Mount House Airport,Small airport,,Australia
+YMHW,,Mount Howitt Airport,Small airport,,Australia
+YMIV,,Mount Ive Airport,Small airport,,Australia
+YMJE,,Mount James Airport,Small airport,,Australia
+YLBG,,Mount Liebig Airport,Small airport,,Australia
+YLSY,,Mount Lindsay Airport,Small airport,,Australia
+YMMT,,Mount Margaret Airport,Small airport,,Australia
+YMCU,,Mount Mcclure Airport,Small airport,,Australia
+YMGS,,Mount Morgans Airport,Small airport,,Australia
+YMDK,,Mount Riddock Airport,Small airport,,Australia
+YMSO,,Mount Sandon Airport,Small airport,,Australia
+YMSF,MTD,Mount Sanford Station Airport,Small airport,,Australia
+YSAR,,Mount Sarah Airport,Small airport,,Australia
+YMSK,,Mount Skinner Airport,Small airport,,Australia
+YMSP,,Mount Surprise Airport,Small airport,,Australia
+YMNS,MSF,Mount Swan Airport,Small airport,,Australia
+NZAE,,Mount Tarawera Airport,Small airport,Mount Tarawera,New Zealand
+AYYT,,Mount Tauwa Airstrip,Small airport,Mount Tauwa,Papua New Guinea
+YMVY,,Mount Valley Airport,Small airport,,Australia
+YMVR,,Mount Vernon Station Airport,Small airport,,Australia
+YVIV,,Mount Vivian Airport,Small airport,,Australia
+YMWE,,Mount Wedge Airport,Small airport,,Australia
+YMNW,,Mount Weld Airport,Small airport,,Australia
+YMWM,,Mount William Airport,Small airport,,Australia
+YWIB,,Mount Willoughby Airport,Small airport,,Australia
+YMOU,,Moura Airport,Small airport,,Australia
+YMUC,MUQ,Muccan Station Airport,Small airport,Muccan Station,Australia
+NWWQ,PDC,Mueo Airport,Small airport,Mueo,New Caledonia
+AYYU,,Mui Airstrip,Small airport,Mui,Papua New Guinea
+YMKB,,Mukinbudin Airport,Small airport,,Australia
+YLGA,,Mulga Downs Airport,Small airport,,Australia
+YMUP,MUP,Mulga Park Airport,Small airport,,Australia
+YMGG,,Mulgathing Airport,Small airport,,Australia
+YMUK,MVK,Mulka Airport,Small airport,Mulka,Australia
+YMEY,,Mullaley Airport,Small airport,,Australia
+YMWA,MXU,Mullewa Airport,Small airport,,Australia
+YMLR,,Muloorina Airport,Small airport,,Australia
+AYYM,LNF,Munbil Airport,Small airport,,Papua New Guinea
+YMDB,,Mundabullangana Airport,Small airport,,Australia
+YMBX,,Mundrabilla Airport,Small airport,Mundrabilla,Australia
+YMDT,,Mundrabilla Motel Airport,Small airport,,Australia
+YMDA,,Mundubbera Airport,Small airport,,Australia
+AYDK,MDM,Munduku Airport,Small airport,Munduku,Papua New Guinea
+YMUG,MNE,Mungeranie Airport,Small airport,Mungeranie,Australia
+YMGI,,Mungindi Airport,Small airport,,Australia
+YLMU,,Mungo Lodge Airport,Small airport,Mungo,Australia
+YMUJ,,Munjina Airport,Small airport,,Australia
+NZMR,,Murchison Airport,Small airport,Murchison,New Zealand
+YMSS,,Murchison Shire Airport,Small airport,,Australia
+YMGO,,Murgoo Airport,Small airport,,Australia
+YMNP,,Murnpeowie Airport,Small airport,,Australia
+YMBD,,Murray Bridge Airport,Small airport,,Australia
+YMYW,,Murray Downs Airport,Small airport,,Australia
+YMUL,,Murray Field,Small airport,,Australia
+YMAE,MYI,Murray Island Airport,Small airport,Murray Island,Australia
+YMMI,WUI,Murrin Murrin Airport,Small airport,Murrin Murrin,Australia
+NTTX,UOA,Mururoa Atoll Airport,Small airport,Mururoa Atoll,French Polynesia
+YMUR,,Murwillumbah Airport,Small airport,,Australia
+YMGV,MVU,Musgrave Airport,Small airport,Musgrave,Australia
+AYUL,,Musula Airstrip,Small airport,Musula,Papua New Guinea
+YMTB,UTB,Muttaburra Airport,Small airport,,Australia
+YMYR,,Myroodan Station Airport,Small airport,,Australia
+YNAB,,Nabarlek Airport,Small airport,,Australia
+AYNC,NDN,Nadunumu Airport,Small airport,Nadunumu,Papua New Guinea
+YNGB,,Nagambie Airport,Small airport,,Australia
+NTKN,NIU,Naiu Airport,Small airport,Naiu Atoll,French Polynesia
+AYNX,ATN,Namatanai Airport,Small airport,Namatanai,Papua New Guinea
+AYNY,NBA,Nambaiyufa Airport,Small airport,Nambaiyufa,Papua New Guinea
+YNHS,NBH,Nambucca Heads Airport,Small airport,Nambucca Heads,Australia
+YNUD,,Nammuldi Mine Airstrip,Small airport,Nammuldi Mine,Australia
+AYNJ,NDI,Namudi Airport,Small airport,Namudi,Papua New Guinea
+AGNA,NAZ,Nana Airport,Small airport,Star Harbor,Solomon Islands
+YNAN,,Nanango Airport,Small airport,,Australia
+AYNA,NKN,Nankina Airport,Small airport,Gwarawon,Papua New Guinea
+YNAU,,Nannup Airport,Small airport,,Australia
+YNNT,,Nantarra Airport,Small airport,,Australia
+YNPD,,Napier Downs Airport,Small airport,,Australia
+YNAP,NMR,Nappa Merrie Airport,Small airport,,Australia
+YNPB,NPP,Napperby Airport,Small airport,Napperby,Australia
+NTGN,NAU,Napuka Island Airport,Small airport,Napuka Island,French Polynesia
+YNRC,NAC,Naracoorte Airport,Small airport,,Australia
+YNRB,,Narembeen Airport,Small airport,,Australia
+YNRG,NRG,Narrogin Airport,Small airport,Narrogin,Australia
+YNWT,,Narwietooma Airport,Small airport,,Australia
+YNRL,,Naryilco Airport,Small airport,,Australia
+YNDS,,Natal Downs Airport,Small airport,,Australia
+NYA,,Natya Airport,Small airport,,Australia
+YNVR,,Navarra Airport,Small airport,,Australia
+YNVE,,Navarre Airport,Small airport,,Australia
+AYNE,GBF,Negarbo(Negabo) Airport,Small airport,Negarbo,Papua New Guinea
+YNES,,Nelson Springs Airport,Small airport,,Australia
+NTGG,,Nengo-Nengo Airport,Small airport,Nengonengo Atoll,French Polynesia
+YNPU,,Nepabunna Airport,Small airport,,Australia
+NWWH,HLU,Nesson Airport,Small airport,Houailou,New Caledonia
+YNCS,,New Crown Airport,Small airport,,Australia
+YNHV,,New Haven Airport,Small airport,,Australia
+YLRS,LUT,New Laura Airport,Small airport,,Australia
+YNMN,NMP,New Moon Airport,Small airport,Basalt,Australia
+YNDG,,Newdegate Airport,Small airport,,Australia
+YNHE,,Newhaven Airport,Small airport,,Australia
+NFNG,NGI,Ngau Airport,Small airport,Ngau,Fiji
+AGGK,IRA,Ngorangora Airport,Small airport,Kirakira,Solomon Islands
+YNHL,,Nhill Airport,Small airport,,Australia
+YNIC,NLS,Nicholson Airport,Small airport,,Australia
+NGNU,NIG,Nikunau Airport,Small airport,Nikunau,Kiribati
+YNPA,,Nilpinna Airport,Small airport,,Australia
+AYIA,IIS,Nissan Island Airport,Small airport,Nissan Island,Papua New Guinea
+YNCD,,Noccundra Airport,Small airport,,Australia
+YNOC,,Nockatunga Airport,Small airport,,Australia
+AYNO,NMN,Nomane Airport,Small airport,Namane,Papua New Guinea
+YNIG,,Nonning Airport,Small airport,,Australia
+NGTO,NON,Nonouti Airport,Small airport,Nonouti,Kiribati
+YNON,,Noondoonia Homestead Airport,Small airport,,Australia
+YNKA,NKB,Noonkanbah Airport,Small airport,,Australia
+YNSH,NSV,Noosa Airport,Small airport,,Australia
+YNOO,,Nooyeah Downs Airport,Small airport,,Australia
+AYRN,,Norambi Airstrip.,Small airport,Norambi,Papua New Guinea
+YNOF,,Norfolk Airport,Small airport,,Australia
+YNVL,,Normanville Airport,Small airport,,Australia
+YNSM,NSM,Norseman Airport,Small airport,,Australia
+NVSP,NUS,Norsup Airport,Small airport,Norsup,Vanuatu
+NZNE,,North Shore Aerodrome,Small airport,Dairy Flat,New Zealand
+YNWL,,North Well Airport,Small airport,,Australia
+NVSZ,OLJ,North West Santo Airport,Small airport,Olpoi,Vanuatu
+YNTM,,Northam Airport,Small airport,,Australia
+YNHP,,Northampton Airport,Small airport,,Australia
+YNPE,ABM,Northern Peninsula Airport,Small airport,Bamaga,Australia
+YNOR,,Norwood Airport,Small airport,,Australia
+YNOV,,Nova Airport,Small airport,,Australia
+AYNW,NWT,Nowata Airport,Small airport,Nowata,Papua New Guinea
+YNUJ,,Nudjaburra Airport,Small airport,,Australia
+AYNI,NUG,Nuguria Airstrip,Small airport,Nuguria Island,Papua New Guinea
+AYWN,,Nugwaia Airstrip,Small airport,Nugwaia,Papua New Guinea
+AYNU,UKU,Nuku Airport,Small airport,Nuku,Papua New Guinea
+NTGW,NUK,Nukutavake Airport,Small airport,Nukutavake,French Polynesia
+NTKU,NKP,Nukutepipi Airport,Small airport,Nukutepipi,French Polynesia
+YNUB,NUR,Nullabor Motel Airport,Small airport,,Australia
+YNUL,NLL,Nullagine Airport,Small airport,,Australia
+YNUM,NUB,Numbulwar Airport,Small airport,,Australia
+YNUE,,Numery Airport,Small airport,,Australia
+YNDR,,Nundroo Airport,Small airport,,Australia
+AGGN,GZO,Nusatupe Airport,Small airport,Gizo,Solomon Islands
+YNUT,UTD,Nutwood Downs Airport,Small airport,Nutwood Downs,Australia
+YNYG,,Nyang Airport,Small airport,,Australia
+YNYM,,Nymagee Airport,Small airport,,Australia
+YNYN,NYN,Nyngan Airport,Small airport,,Australia
+YNYP,,Nypari Airport,Small airport,,Australia
+YNRR,,Nyrripi Airport,Small airport,,Australia
+YOKV,,Oak Valley Airport,Small airport,,Australia
+YOKE,,Oakvale Airport,Small airport,,Australia
+YOAY,,Oaky Creek Airport,Small airport,,Australia
+AYOB,OBX,Obo Airport,Small airport,Obo,Papua New Guinea
+AYOD,,Obura Airstrip,Small airport,Obura,Papua New Guinea
+YOEN,OPI,Oenpelli Airport,Small airport,,Australia
+NSAS,OFU,Ofu Village Airport,Small airport,Ofu Village,American Samoa
+AYOG,OGE,Ogeranang Airport,Small airport,,Papua New Guinea
+AYOF,OKV,Okao Airport,Small airport,Okao,Papua New Guinea
+AYOH,,Okisai Airstrip,Small airport,Okisai,Papua New Guinea
+NZOX,,Okiwi Station Airport,Small airport,,New Zealand
+AYOJ,OKP,Oksapmin Airport,Small airport,Oksapmin,Papua New Guinea
+YOAD,,Old Andado Airport,Small airport,,Australia
+YOBR,,Old Bar Heritage Airport,Small airport,,Australia
+AYOV,OLQ,Olsobip Airport,Small airport,Olsobip,Papua New Guinea
+YOLD,OLP,Olympic Dam Airport,Small airport,Olympic Dam,Australia
+NZOM,,Omaka Blenheim Airport,Small airport,Blenheim,New Zealand
+NZOA,,Omarama Glider Airport,Small airport,,New Zealand
+AYUO,,Omaura Airstrip,Small airport,Omaura,Papua New Guinea
+YOMO,,Omeo Airport,Small airport,,Australia
+YOMI,,Omicron Station Airport,Small airport,,Australia
+AYOM,OSE,Omora Airport,Small airport,Omora,Papua New Guinea
+YOAP,,One Arm Point Airport,Small airport,,Australia
+NFOL,ONU,Ono-i-Lau Airport,Small airport,Ono-i-Lau,Fiji
+AYQQ,ONB,Ononge Airport,Small airport,Onange Mission,Papua New Guinea
+NGON,OOT,Onotoa Airport,Small airport,Onotoa,Kiribati
+YOLW,ONS,Onslow Airport,Small airport,,Australia
+YOOD,ODD,Oodnadatta Airport,Small airport,,Australia
+YODA,,Ooldea Airport,Small airport,,Australia
+YFRV,FVR,Oombulgurri Airport,Small airport,Forrest River Mission,Australia
+YORT,,Ooratippra Airport,Small airport,,Australia
+YOTN,,Ootann Airport,Small airport,,Australia
+AYOY,OPB,Open Bay Airport,Small airport,Maitanakunai,Papua New Guinea
+NZOP,,Opotiki Airport,Small airport,,New Zealand
+AYYO,RAX,Oram Airport,Small airport,,Papua New Guinea
+YORB,RBS,Orbost Airport,Small airport,,Australia
+YORC,OKB,Orchid Beach Airport,Small airport,Orchid Beach,Australia
+YORV,ODR,Ord River Airport,Small airport,Ord River,Australia
+YOIT,,Orielton Airport,Small airport,,Australia
+YORW,,Orient Well Airport,Small airport,,Australia
+YORL,,Orleans Farm Airport,Small airport,,Australia
+YORR,,Orroroo Airport,Small airport,,Australia
+YOSB,OSO,Osborne Mine Airport,Small airport,,Australia
+AYZS,OSG,Ossima Airport,Small airport,Ossima,Papua New Guinea
+NZOT,,Otaki Airport,Small airport,Otaki,New Zealand
+NWWT,,Oua Tom Airport,Small airport,La Foa,New Caledonia
+NWWY,,Ouaco Airport,Small airport,Ouaco,New Caledonia
+AYZU,,Oum Airstrip,Small airport,Oum,Papua New Guinea
+YODL,,Ourdel Airport,Small airport,,Australia
+YOUY,OYN,Ouyen Airport,Small airport,,Australia
+AYWW,,Owena Airstrip,Small airport,Owenia,Papua New Guinea
+YOLY,,Oxley Station Airport,Small airport,,Australia
+YPAC,,Pacific Haven Airport,Small airport,,Australia
+YPDY,,Padthaway Station Airport,Small airport,,Australia
+TT01,,Pagan Airstrip,Small airport,Shomu-Shon,Northern Mariana Islands
+AYPB,PLE,Paiela Airport,Small airport,Paiela,Papua New Guinea
+NZPA,,Paihia Private Airport,Small airport,,New Zealand
+YPAM,PMK,Palm Island Airport,Small airport,,Australia
+YPME,,Palmer Airport,Small airport,,Australia
+YPLI,,Palmers Island/Yamba Airport,Small airport,,Australia
+PLPA,,Palmyra (Cooper) Airport,Small airport,Palmyra Island Atoll,United States Minor Outlying Islands
+YPYA,,Palmyra Airstrip,Small airport,,Australia
+YPUA,,Palumpa Airport,Small airport,,Australia
+AYPW,,Panakawa Airport,Small airport,,Papua New Guinea
+YPDI,PDE,Pandie Pandie Airport,Small airport,,Australia
+AYPG,PGN,Pangia Airport,Small airport,Pangia,Papua New Guinea
+AYPC,PGB,Pangoa Airport,Small airport,Pangoa,Papua New Guinea
+YPNW,,Pannawonica Airport,Small airport,,Australia
+YPAY,,Papunya Airport,Small airport,,Australia
+NZPI,,Parakai Aerodrome,Small airport,,New Zealand
+YPKI,,Parakylia Airport,Small airport,,Australia
+AGGP,PRS,Parasi Airport,Small airport,Parasi,Solomon Islands
+YPDO,PRD,Pardoo Airport,Small airport,Pardoo,Australia
+YPDA,PDN,Parndana Airport,Small airport,Kangaroo Island,Australia
+AYPK,,Pasinkap Airstrip,Small airport,Pasinkap,Papua New Guinea
+YPCH,,Patchewollock Airport,Small airport,,Australia
+YPTJ,,Patjarr Airport,Small airport,Patjarr,Australia
+NZUN,,Pauanui Beach Glider Airport,Small airport,,New Zealand
+YPYF,,Paynes Find Airport,Small airport,,Australia
+YPLL,,Peak Hill Airport,Small airport,,Australia
+YPKH,,Peak Hill Airport,Small airport,,Australia
+YPKE,,Peake Airport,Small airport,,Australia
+C23,,Peleliu Airport,Small airport,Babelthuap Island,Palau
+YPEF,,Penfield Airfield,Small airport,Sunbury,Australia
+YPSH,PEA,Penneshaw Airport,Small airport,Ironstone,Australia
+YPNG,PEY,Penong Airport,Small airport,Penong,Australia
+YPJI,,Perenjori Airport,Small airport,,Australia
+YPBH,,Peterborough Airport,Small airport,,Australia
+YPTB,,Peterborough Airport,Small airport,,Australia
+YPID,,Phillip Island Airport,Small airport,,Australia
+YPIX,,Pia Airport,Small airport,,Australia
+YPCM,,Pickertaramoor Airstrip,Small airport,Tiwi College,Australia
+NZPN,PCN,Picton Aerodrome,Small airport,Koromiko,New Zealand
+YPGH,,Pigeon Hole Airport,Small airport,,Australia
+YPLG,,Pilliga Airport,Small airport,,Australia
+AYPJ,PMP,Pimaga Airport,Small airport,Pimaga,Papua New Guinea
+AYPD,PDI,Pindiu Airport,Small airport,Pindiu,Papua New Guinea
+YPNC,,Pine Creek Airport,Small airport,,Australia
+YPIY,,Pingelly Airport,Small airport,,Australia
+YPIN,,Pinnacle Airport,Small airport,,Australia
+YPCS,,Pinnacles Homestead Airport,Small airport,,Australia
+YPNN,,Pinnaroo Airport,Small airport,,Australia
+YPWH,,Pittsworth Airport,Small airport,,Australia
+NWWS,,Plaine des Lacs Airport,Small airport,Plaine des Lacs,New Caledonia
+YPVD,,Plevna Downs Airport,Small airport,,Australia
+YPMB,,Plumbago Airport,Small airport,,Australia
+YPLU,,Plutonic Airport,Small airport,,Australia
+YPCE,,Pooncarie Airport,Small airport,,Australia
+NZPO,,Porangahau Aerodrome,Small airport,,New Zealand
+YPOK,,Porepunkah Airport,Small airport,,Australia
+YPMP,EDR,Pormpuraaw Airport,Small airport,Pormpuraaw,Australia
+YPOP,,Porphyry Airport,Small airport,,Australia
+NWWP,PUV,Poum Airport,Small airport,Poum,New Caledonia
+YPRA,,Prairie Airport,Small airport,,Australia
+YPRE,,Premer Betoota Airport,Small airport,,Australia
+YPNI,,Prenti Downs Airport,Small airport,,Australia
+YPMH,PXH,Prominent Hill Airport,Small airport,OZ Minerals Prominent Hill Mine,Australia
+YPKL,,Puckapunyal (Military) Airport,Small airport,,Australia
+NZPH,,Pudding Hill Aerodrome,Small airport,,New Zealand
+NCPK,PZK,Pukapuka Island Airport,Small airport,Pukapuka Atoll,Cook Islands
+AYPX,,Pukapuki Airstrip,Small airport,Pukapuki Vilage,Papua New Guinea
+NTGQ,PUK,Pukarua Airport,Small airport,Pukarua,French Polynesia
+AYPQ,PMN,Pumani Airport,Small airport,Pumani,Papua New Guinea
+YPUN,,Punmu Airport,Small airport,,Australia
+AYPU,,Puri Airport,Small airport,Puri,Papua New Guinea
+YPYD,,Pyramid Hill Airport,Small airport,,Australia
+YQDG,,Quairading Airport,Small airport,,Australia
+YQBK,,Quambatook Airport,Small airport,,Australia
+YQBE,,Quambone Royona Airport,Small airport,,Australia
+YQUA,,Quarry2 Airport,Small airport,,Australia
+YQNS,UEE,Queenstown Airport,Small airport,,Australia
+YQUE,,Questa Park Airport,Small airport,,Australia
+NVVQ,UIQ,Quion Hill Airport,Small airport,Quion Hill,Vanuatu
+YQDI,UIR,Quirindi Airport,Small airport,,Australia
+YQON,,Quondong Airport,Small airport,,Australia
+YQRN,,Quorn Airport,Small airport,,Australia
+YGIG,,RAAF Gingin,Small airport,,Australia
+YBSG,,RAAF Scherger,Small airport,Weipa,Australia
+YMPC,,RAAF Williams,Small airport,Point Cook,Australia
+AYRE,RBP,Raba Raba Airport,Small airport,Rabaraba,Papua New Guinea
+YRBT,,Rabbit Flat Airport,Small airport,,Australia
+NFFR,RBI,Rabi Island Airport,Small airport,Rabi Island,Fiji
+NZRA,RAG,Raglan Airfield,Small airport,,New Zealand
+YRAG,,Raglan Airport,Small airport,,Australia
+YRBW,,Rainbow Airport,Small airport,,Australia
+YRBB,,Rainbow Beach Airport,Small airport,,Australia
+NTAV,RVV,Raivavae Airport,Small airport,,French Polynesia
+AGRM,RBV,Ramata Airport,Small airport,Ramata,Solomon Islands
+YRNG,RAM,Ramingining Airport,Small airport,,Australia
+NZRT,,Rangiora Airfield,Small airport,Rangiora,New Zealand
+NZRK,,Rangitaiki Airfield,Small airport,,New Zealand
+NZRI,,Rangitata Island Airport,Small airport,Rangitata Island,New Zealand
+NTKO,RRR,Raroia Airport,Small airport,,French Polynesia
+YRAV,,Ravensthorpe Airport,Small airport,,Australia
+YNRV,RVT,Ravensthorpe Airport,Small airport,,Australia
+YRWH,,Ravensworth Airport,Small airport,,Australia
+YRAW,,Rawlinna Airport,Small airport,,Australia
+YRWA,,Rawlinna Station Airport,Small airport,,Australia
+YRYK,,Rawnsley Park Airport,Small airport,,Australia
+YRRR,,Raymangirr Airport,Small airport,,Australia
+YRAM,,Raymore Homestead Airport,Small airport,,Australia
+YRHL,,Red Hill Station Airport,Small airport,,Australia
+YRBM,,Redbank Mine Airport,Small airport,,Australia
+YRED,,Redcliffe Airport,Small airport,Redcliffe,Australia
+NVSR,RCL,Redcliffe Airport,Small airport,Redcliffe,Vanuatu
+YRDM,,Redmont Airport,Small airport,,Australia
+YRDY,,Reedys Airport,Small airport,,Australia
+AGGR,RNL,Rennell/Tingoa Airport,Small airport,Rennell Island,Solomon Islands
+YRRG,,Rhodes Ridge Airport,Small airport,,Australia
+YRMD,RCM,Richmond Airport,Small airport,,Australia
+YRID,,Riddell Airport,Small airport,Riddell,Australia
+NTAM,RMT,Rimatara Airport,Small airport,Rimatara Island,French Polynesia
+YRSK,,Ringer Soak Airport,Small airport,,Australia
+AGRC,RIN,Ringi Cove Airport,Small airport,Ringi Cove,Solomon Islands
+YRNW,,Ringwood Airport,Small airport,,Australia
+YRVE,,Riveren Airport,Small airport,,Australia
+YRBE,,Robe Airport,Small airport,Robe,Australia
+YRBN,,Robertson Airstrip,Small airport,Carrington Falls,Australia
+YROB,ROH,Robinhood Airport,Small airport,,Australia
+YRBR,RRV,Robinson River Airport,Small airport,,Australia
+YROI,RBC,Robinvale Airport,Small airport,,Australia
+YRKS,,Rocklands Airport,Small airport,,Australia
+YRLE,,Rocklea Airport,Small airport,,Australia
+YROK,,Rocky River Airport,Small airport,,Australia
+YROE,RBU,Roebourne Airport,Small airport,Roebourne,Australia
+YRLL,,Rolleston Airport,Small airport,,Australia
+YRSY,,Romsey Airport,Small airport,Romsey,Australia
+YRRB,RPB,Roper Bar Airport,Small airport,Roper Bar,Australia
+YRSB,RSB,Roseberth Airport,Small airport,,Australia
+YRSV,,Rosevale Resort Airport,Small airport,,Australia
+YROV,,Ross River Airport,Small airport,,Australia
+YROT,,Rothsay Mine Airport,Small airport,,Australia
+YRTI,RTS,Rottnest Island Airport,Small airport,,Australia
+NFNR,RTA,Rotuma Airport,Small airport,Rotuma,Fiji
+NZRX,,Roxburgh Aerodrome,Small airport,,New Zealand
+YRXB,,Roxby Downs Station Airport,Small airport,,Australia
+YRYH,RHL,Roy Hill Station Airport,Small airport,,Australia
+NZRW,,Ruawai Aerodrome,Small airport,,New Zealand
+YRUD,,Rudal River Airport,Small airport,,Australia
+YRUG,,Rugby Airport,Small airport,,Australia
+AYRG,RMN,Rumginae Airport,Small airport,,Papua New Guinea
+YRTP,RTP,Rutland Plains Airport,Small airport,,Australia
+NZRC,SZS,Ryan's Creek Aerodrome,Small airport,Oban,New Zealand
+AYSH,SBV,Sabah Airport,Small airport,Sabah,Papua New Guinea
+AYSF,SFU,Safia Airport,Small airport,Safia,Papua New Guinea
+YSII,SBR,Saibai Island Airport,Small airport,Saibai Island,Australia
+AYSD,SDI,Saidor Airport,Small airport,Saidor,Papua New Guinea
+YSTA,,Saint Arnaud Airport,Small airport,,Australia
+YSAI,,Saipem Airport,Small airport,,Australia
+YSLT,,Sale Airport,Small airport,,Australia
+AYSZ,,Samanzing Airstrip,Small airport,Samanzing,Papua New Guinea
+AYSC,,Samban Airstrip,Small airport,Samban School,Papua New Guinea
+AYSM,,Samberigi Airstrip,Small airport,Samberigi Mission,Papua New Guinea
+YSFI,,Sandfire Airport,Small airport,,Australia
+YSFY,,Sandfly Airport,Small airport,,Australia
+YSAH,,Sandhill Airport,Small airport,,Australia
+YSAN,NDS,Sandstone Airport,Small airport,Sandstone,Australia
+AYSR,,Sangera Airstrip,Small airport,Sangera,Papua New Guinea
+AGGT,NNB,Santa Ana Airport,Small airport,Santa Ana Island,Solomon Islands
+AGGL,SCZ,Santa Cruz/Graciosa Bay/Luova Airport,Small airport,Santa Cruz/Graciosa Bay/Luova,Solomon Islands
+YSTT,,Santa Teresa Airport,Small airport,,Australia
+AYSP,SMH,Sapmanga Airport,Small airport,Sapmanga,Papua New Guinea
+NVSH,SSR,Sara Airport,Small airport,Pentecost Island,Vanuatu
+AYSS,TDS,Sasereme Airport,Small airport,Sasereme,Papua New Guinea
+AYSW,SWG,Satwag Airport,Small airport,Satwag,Papua New Guinea
+AYSV,SXW,Sauren Airport,Small airport,Sauren,Papua New Guinea
+NFNS,SVU,Savusavu Airport,Small airport,Savusavu,Fiji
+YSCO,NSO,Scone Airport,Small airport,,Australia
+YSCA,,Scotia Sanctuary Airport,Small airport,,Australia
+YSLK,,Sea Lake Airport,Small airport,,Australia
+AGGS,EGM,Sege Airport,Small airport,Sege,Solomon Islands
+AYSL,SXH,Sehulea Airport,Small airport,Sehulea,Papua New Guinea
+AYSO,SBC,Selbang Airport,Small airport,Selbang,Papua New Guinea
+AYSI,,Seltamin Airstrip,Small airport,Seltamin,Papua New Guinea
+AYSK,SGK,Sengapi Airstrip,Small airport,Sengapi,Papua New Guinea
+AYSQ,SPV,Sepik Plains Airport,Small airport,Sepik Plains,Papua New Guinea
+YSEN,,Serpentine Airport,Small airport,,Australia
+AYSY,,Serra Airstrip,Small airport,Serai,Papua New Guinea
+YSHN,,Shannon River Airport,Small airport,,Australia
+YSHG,SGP,Shay Gap Airport,Small airport,Shay Gap,Australia
+YSHR,JHQ,Shute Harbour Airport,Small airport,,Australia
+AYQS,SXA,Sialum Airport,Small airport,Sialum,Papua New Guinea
+YSIA,,Siam Airport,Small airport,Siam,Australia
+AYZW,,Siawi Airstrip,Small airport,Siawi,Papua New Guinea
+AYZB,,Sibilanga Airstrip,Small airport,Sibilanga Mission,Papua New Guinea
+AYSG,SIL,Sila Airport,Small airport,Sila Mission,Papua New Guinea
+YSLG,,Silent Grove Airport,Small airport,,Australia
+AYZI,SWR,Silur Airport,Small airport,Silur Mission,Papua New Guinea
+YSVH,,Silver Hills Airport,Small airport,,Australia
+YSVP,SSP,Silver Plains Airport,Small airport,Silver Plains,Australia
+AYXI,SMJ,Sim Airport,Small airport,Sim,Papua New Guinea
+AYSJ,SIM,Simbai Airport,Small airport,Simbai,Papua New Guinea
+AYQB,,Simbari Airstrip,Small airport,Simbari,Papua New Guinea
+AYSE,NIS,Simberi Airport,Small airport,Simberi Island,Papua New Guinea
+AYQM,,Simogu Airstrip,Small airport,Simogu,Papua New Guinea
+AYDY,,Sindeni Airstrip,Small airport,Sindeni,Papua New Guinea
+YSGT,SIX,Singleton Airport,Small airport,Singleton,Australia
+AYQV,,Sinow Airstrip,Small airport,Sinow,Papua New Guinea
+AYSB,,Sirebi Airstrip,Small airport,Sirebi,Papua New Guinea
+AYXS,,Sisamin Airstrip,Small airport,Sisamin,Papua New Guinea
+AYZN,SIZ,Sissano Airport,Small airport,Sissano,Papua New Guinea
+AYEW,SWE,Siwea Airport,Small airport,Siwea,Papua New Guinea
+NVSE,EAE,Siwo Airport,Small airport,Emae Island,Vanuatu
+AYLZ,,Slai Airstrip,Small airport,Slai,Papua New Guinea
+YSMP,SHU,Smith Point Airport,Small airport,,Australia
+AYMY,,Smok Airstrip,Small airport,Smok,Papua New Guinea
+YSNT,,Snowtown Airport,Small airport,,Australia
+NVSC,SLH,Sola Airport,Small airport,Sola,Vanuatu
+YSOL,SLJ,Solomon Airport,Small airport,Karijini National Park,Australia
+YSMB,,Somersby Airstrip,Small airport,Gosford,Australia
+AYPA,,Somokopa Airstrip,Small airport,Somokopa,Papua New Guinea
+AYZQ,,Sopise Airstrip,Small airport,Sopise,Papua New Guinea
+AYQO,SPH,Sopu Airport,Small airport,Sopu,Papua New Guinea
+YSDN,,Soudan Station Airport,Small airport,,Australia
+YSGW,ZGL,South Galway Airport,Small airport,,Australia
+YGBI,GBL,South Goulburn Is Airport,Small airport,,Australia
+YSGR,,South Grafton Airport,Small airport,,Australia
+YSWK,,South West Rocks Airport,Small airport,South West Rocks,Australia
+YSCR,SQC,Southern Cross Airport,Small airport,,Australia
+YSPT,SHQ,Southport Airport,Small airport,,Australia
+YSOW,,Southwell Airport,Small airport,,Australia
+NVSX,SWJ,Southwest Bay Airport,Small airport,Malekula Island,Vanuatu
+YSPK,SCG,Spring Creek Airport,Small airport,,Australia
+YSPF,,Springfield Airport,Small airport,,Australia
+NZSL,,Springhill Airport,Small airport,,New Zealand
+YSPI,,Springsure Airport,Small airport,,Australia
+YSPV,KSV,Springvale Airport,Small airport,,Australia
+YSGE,SGO,St George Airport,Small airport,,Australia
+YSTH,HLS,St Helens Airport,Small airport,,Australia
+YSLE,,St Leonards Airfield,Small airport,,Australia
+YSBO,,Stanbroke Airport,Small airport,,Australia
+YSPE,SNH,Stanthorpe Airport,Small airport,,Australia
+YSFG,,Stonefield Gliding,Small airport,,Australia
+YSTO,,Stonehenge Airport,Small airport,,Australia
+YSRN,SRN,Strahan Airport,Small airport,,Australia
+NZSD,,Stratford Airport,Small airport,Stratford,New Zealand
+YSYN,,Strathalbyn Airport,Small airport,,Australia
+YSVN,,Strathaven Airport,Small airport,,Australia
+YSBG,,Strathbogie Airport,Small airport,,Australia
+YSTB,,Strathburn Airport,Small airport,,Australia
+YSDW,,Strathdownie Airport,Small airport,,Australia
+YSTR,,Strathearn Airport,Small airport,,Australia
+YSGD,,Strathgordon Airport,Small airport,,Australia
+YSLN,,Strathleven Airport,Small airport,,Australia
+YSMY,,Strathmay Airport,Small airport,,Australia
+YSMR,STH,Strathmore Airport,Small airport,,Australia
+YKBY,KBY,Streaky Bay Airport,Small airport,,Australia
+YSTC,,Stuart Creek Airport,Small airport,Stuart Creek,Australia
+AYST,,Sturt Island Airport,Small airport,,Papua New Guinea
+AYSA,SBE,Suabi Airport,Small airport,,Papua New Guinea
+AYUS,,Suame Airstrip,Small airport,Suame,Papua New Guinea
+AGGV,VAO,Suavanao Airport,Small airport,Suavanao,Solomon Islands
+YSDL,,Sudley Airport,Small airport,,Australia
+AYXG,,Sugu Airstrip,Small airport,Sugu,Papua New Guinea
+AYSU,SKC,Suki Airport,Small airport,Suki,Papua New Guinea
+AYQW,,Sumwari Airstrip,Small airport,Sumwari,Papua New Guinea
+YSRD,,Sunrise Dam Airport,Small airport,,Australia
+YSUJ,,Supplejack Downs Airport,Small airport,,Australia
+YSRT,,Surat Airport,Small airport,,Australia
+YSWR,,Swan Reach Airport,Small airport,Swan Reach,Australia
+YSWA,,Swansea Airport,Small airport,,Australia
+YSWE,,Sweers Island Resort Airport,Small airport,,Australia
+YSLV,,Sylvania Homestead Airport,Small airport,,Australia
+NGTS,TSU,Tabiteuea South Airport,Small airport,Tabiteuea South,Kiribati
+YTAB,TBL,Tableland Homestead Airport,Small airport,,Australia
+PLFA,TNV,Tabuaeran Island Airport,Small airport,Tabuaeran Island,Kiribati
+AYTB,TBG,Tabubil Airport,Small airport,Tabubil,Papua New Guinea
+AYTJ,TAJ,Tadji Airport,Small airport,Aitape,Papua New Guinea
+YTGG,,Taggerty Airport,Small airport,,Australia
+AYTG,TGL,Tagula Airport,Small airport,Sudest Island,Papua New Guinea
+NZTS,THH,Taharoa Aerodrome,Small airport,Taharoa,New Zealand
+NZTI,,Taieri Airport,Small airport,,New Zealand
+NZVR,,Taihape Airport,Small airport,Taihape,New Zealand
+NZTK,KTF,Takaka Airport,Small airport,,New Zealand
+NTKM,TJN,Takume Airport,Small airport,Takume,French Polynesia
+AYVL,TLW,Talasea Airport,Small airport,Talasea,Papua New Guinea
+YTVA,,Talavera Airport,Small airport,,Australia
+AYTL,,Talbakul Airstrip,Small airport,Talbakul,Papua New Guinea
+YTBG,,Talbingo Airport,Small airport,,Australia
+YTML,,Tamala Airport,Small airport,,Australia
+NGTM,TMN,Tamana Island Airport,Small airport,Tamana Island,Kiribati
+YTMS,,Tambar Springs Airport,Small airport,,Australia
+YTMB,,Tambo Airport,Small airport,,Australia
+AYTM,,Tamo Airstrip,Small airport,Tamo,Papua New Guinea
+YTMN,,Tanami Airport,Small airport,,Australia
+YTAN,,Tanami Downs Airport,Small airport,,Australia
+YTNB,TXR,Tanbar Airport,Small airport,Tanbar Station,Australia
+YTAD,,Tandou Lake Airport,Small airport,,Australia
+YTGA,TAN,Tangalooma Airport,Small airport,,Australia
+YXTA,,Tangalooma Resort Airport,Small airport,,Australia
+YTNR,,Tanumbirini Airport,Small airport,,Australia
+AYTQ,,Tapen Airstrip,Small airport,Tapen,Papua New Guinea
+AYTC,,Tapila Airstrip,Small airport,Mutam,Papua New Guinea
+AYTI,TPI,Tapini Airport,Small airport,Tapini,Papua New Guinea
+YTAA,XTR,Tara Airport,Small airport,,Australia
+AYTR,TBQ,Tarabo Airport,Small airport,Tarabo,Papua New Guinea
+AYTT,TRJ,Tarakbits Airport,Small airport,Tarakbits,Papua New Guinea
+YTLG,,Taralga Grathawa Airport,Small airport,,Australia
+YTRC,,Tarcombe Airport,Small airport,,Australia
+YTAR,TAQ,Tarcoola Airport,Small airport,Tarcoola,Australia
+YTCY,,Tarcoonyinna Airport,Small airport,,Australia
+AYTA,TIZ,Tari Airport,Small airport,Tari,Papua New Guinea
+YTLT,,Tarlton Downs Airport,Small airport,,Australia
+YTAM,XTO,Taroom Airport,Small airport,,Australia
+NTGO,TKV,Tatakoto Airport,Small airport,Tatakoto,French Polynesia
+NZTM,,Taumarunui Airport,Small airport,,New Zealand
+NVSI,PBJ,Tavie Airport,Small airport,Paama Island,Vanuatu
+AYTW,TWY,Tawa Airport,Small airport,Tawa,Papua New Guinea
+NZTA,,Te Aroha Airfield,Small airport,,New Zealand
+NZTE,,Te Kowhai Airfield,Small airport,,New Zealand
+NZTT,,Te Kuiti Airfield,Small airport,Te Kuiti,New Zealand
+AYTZ,TKB,Tekadu Airport,Small airport,Tekadu,Papua New Guinea
+NZTL,,Tekapo Aerodrome,Small airport,,New Zealand
+AYTN,TKW,Tekin Airport,Small airport,Tekin,Papua New Guinea
+AYTE,TFM,Telefomin Airport,Small airport,Telefomin,Papua New Guinea
+YTPE,,Tempe Downs Airport,Small airport,,Australia
+YTEN,,Tenneco Station Five Airport,Small airport,,Australia
+YTNN,,Tenneco Station Four Airport,Small airport,,Australia
+YTNE,,Tenneco Station One Airport,Small airport,,Australia
+YTEC,,Tenneco Station Three Airport,Small airport,,Australia
+YTOS,,Tenneco Station Two Airport,Small airport,,Australia
+YTFD,,Tenterfield Airport,Small airport,Tenterfield,Australia
+AYTP,TEP,Tep Tep Airport,Small airport,Teptep,Papua New Guinea
+AYTY,TEO,Terapo Airport,Small airport,Terapo Mission,Papua New Guinea
+AYTD,,Teredau Airport,Small airport,Tetehui,Papua New Guinea
+AYTF,TDB,Tetebedi Airport,Small airport,Tetebedi,Papua New Guinea
+NTTE,TTI,Tetiaroa Airport,Small airport,Tetiaroa,French Polynesia
+NZTH,TMZ,Thames Aerodrome,Small airport,,New Zealand
+YGDR,,The Garden Airport,Small airport,,Australia
+YTGT,,The Granites Airport,Small airport,,Australia
+YTGV,,The Grove Airport,Small airport,,Australia
+YTMO,PHQ,The Monument Airport,Small airport,Phosphate Hill,Australia
+YOAS,,The Oaks Airport,Small airport,,Australia
+YTHD,TDN,Theda Station Airport,Small airport,Theda Station,Australia
+YTDR,TDR,Theodore Airport,Small airport,,Australia
+YTHV,,Thevenard Island Airport,Small airport,,Australia
+YTHI,,Thistle Island Airport,Small airport,Thistle Island,Australia
+YTHR,,Three Rivers Homestead Airport,Small airport,,Australia
+YTHS,,Three Springs Airport,Small airport,,Australia
+YTHY,TYG,Thylungra Airport,Small airport,,Australia
+YTIT,,Ti Tree Airport,Small airport,,Australia
+YTTE,,Ti Tree Airport,Small airport,,Australia
+YTDL,,Tidal River Airport,Small airport,,Australia
+YTYN,,Tieyon Airport,Small airport,,Australia
+AYTH,TFB,Tifalmin Airport,Small airport,Tifalmin,Papua New Guinea
+YTLP,,Tilpa Airport,Small airport,Tilpa,Australia
+YTBR,TBK,Timber Creek Airport,Small airport,,Australia
+AYTV,TBE,Timbunke Airport,Small airport,Timbunke,Papua New Guinea
+AYYL,TCK,Tinboli Airport,Small airport,Tinboli,Papua New Guinea
+YTIN,,Tintinara Airport,Small airport,,Australia
+AYRR,,Tiri Airstrip,Small airport,Tiri,Papua New Guinea
+YTJI,,Tjirrkarli Airport,Small airport,,Australia
+YJUK,,Tjukurla Airport,Small airport,,Australia
+YTJU,,Tjuntjuntjarra Airport,Small airport,,Australia
+YTMY,TYP,Tobermorey Airport,Small airport,Tobermorey,Australia
+AYVB,,Tobou Airstrip,Small airport,Tobou,Papua New Guinea
+YTOC,TCW,Tocumwal Airport,Small airport,,Australia
+YTDM,,Todmorden Airport,Small airport,,Australia
+YTOG,,Togo Station Airport,Small airport,,Australia
+NZTO,TKZ,Tokoroa Airfield,Small airport,Tokoroa,New Zealand
+AYXO,TLO,Tol Airport,Small airport,Tol,Papua New Guinea
+YTNS,,Toliness Airport,Small airport,,Australia
+YTMP,TPR,Tom Price Airport,Small airport,Tom Price,Australia
+NCPY,PYE,Tongareva Airport,Small airport,Penrhyn Island,Cook Islands
+NVST,TGH,Tongoa Airport,Small airport,Tongoa Island,Vanuatu
+AYVO,TON,Tonu Airport,Small airport,Tonu,Papua New Guinea
+YTOA,,Toolachie Airport,Small airport,,Australia
+YTOB,,Toomba Airport,Small airport,,Australia
+YTDN,,Tooradin Airport,Small airport,,Australia
+YTKS,,Toorak Research Station Airport,Small airport,,Australia
+YTWN,,Tooraweenah Airport,Small airport,,Australia
+YTWB,TWB,Toowoomba Airport,Small airport,Toowoomba,Australia
+AYVM,TCJ,Torembi Airport,Small airport,Torembi,Papua New Guinea
+YTQY,,Torquay Airport,Small airport,Torquay,Australia
+YTCK,,Torrens Creek Airport,Small airport,,Australia
+NVSD,TOH,Torres Airstrip,Small airport,Loh/Linua,Vanuatu
+YTOK,,Torres Park Homestead Airport,Small airport,,Australia
+YTRB,,Torrumbarry Airport,Small airport,,Australia
+YTOT,,Tottenham Airport,Small airport,,Australia
+YTCF,,Tracies Field,Small airport,,Australia
+YTGI,,Trangie Airport,Small airport,,Australia
+YTWE,,Trelawney Airport,Small airport,,Australia
+YTEE,TQP,Trepell Airport,Small airport,Trepell,Australia
+YTUA,,Triabunna Airport,Small airport,,Australia
+YTII,,Trinidad Airport,Small airport,,Australia
+YTTI,,Troughton Is Airport,Small airport,,Australia
+YTUG,,Trugananni Airport,Small airport,,Australia
+YTFA,,Truro Flat Airpark,Small airport,Truro Flat,Australia
+YTST,TTX,Truscott-Mungalalu Airport,Small airport,Anjo Peninsula,Australia
+AYDP,,Tsendiap Airstrip,Small airport,Tsendiap,Papua New Guinea
+AYTS,TSW,Tsewi Airport,Small airport,Tsewi,Papua New Guinea
+AYQU,,Tsumba Airstrip,Small airport,Tsumba Mission,Papua New Guinea
+YTUC,,Tuckabiana Airport,Small airport,,Australia
+AYTU,TFI,Tufi Airport,Small airport,Tufi,Papua New Guinea
+YTLL,,Tullamore Airport,Small airport,,Australia
+YTUY,,Tully Airport,Small airport,,Australia
+YTBM,,Tumbarumba Airport,Small airport,Tumbarumba,Australia
+YTBB,,Tumby Bay Airport,Small airport,,Australia
+AYQL,TLP,Tumolbil Airport,Small airport,Tumolbil,Papua New Guinea
+YTUN,,Tunbridge Airport,Small airport,,Australia
+YTNC,,Tuncurry Airport,Small airport,,Australia
+NTTU,TPX,Tupai Airport,Small airport,Tupai Atoll,French Polynesia
+NZTN,,Turangi Airport,Small airport,,New Zealand
+YTRK,,Turee Creek Airport,Small airport,,Australia
+NTGY,ZTA,Tureia Airport,Small airport,,French Polynesia
+YTKY,TKY,Turkey Creek Airport,Small airport,Turkey Creek,Australia
+AYUV,,Tuvau Airstrip,Small airport,Tuvau,Papua New Guinea
+YTYA,,Tyabb Airport,Small airport,Melbourne,Australia
+YTYH,,Tyagarah Airport,Small airport,,Australia
+NTMU,UAH,Ua Huka Airport,Small airport,Ua Huka,French Polynesia
+NTMP,UAP,Ua Pou Airport,Small airport,Ua Pou,French Polynesia
+YUCH,,Ucharonidge Airport,Small airport,Ucharonidge Station,Australia
+AGAR,RNA,Ulawa Airport,Small airport,Arona,Solomon Islands
+NVSU,ULB,Uléi Airport,Small airport,Ambryn Island,Vanuatu
+AYUC,UMC,Umba Airport,Small airport,Umba,Papua New Guinea
+YUMB,,Umbeara Airport,Small airport,,Australia
+YUMU,,Umuwa Airport,Small airport,,Australia
+YUDA,UDA,Undara Airport,Small airport,,Australia
+YUDL,,Undilla Airport,Small airport,,Australia
+AYUR,UPR,Upiara Airport,Small airport,Upiara,Papua New Guinea
+YUPH,,Upper Horton Wyl Airport,Small airport,,Australia
+YUDG,,Urandangi Airport,Small airport,,Australia
+YUPG,,Urapunga Airport,Small airport,,Australia
+AYUE,URU,Uroubi Airport,Small airport,Uroubi,Papua New Guinea
+AGAT,ATD,Uru Harbour Airport,Small airport,Atoifi,Solomon Islands
+AYUX,,Usarumpia Airstrip,Small airport,Usarumpia,Papua New Guinea
+YUSL,USL,Useless Loop Airport,Small airport,,Australia
+ATUA,,Utai Airstrip,Small airport,Utai,Papua New Guinea
+AYUA,,Utai Airstrip,Small airport,Utai,Papua New Guinea
+K03N,UTK,Utirik Airport,Small airport,Utirik Island,Marshall Islands
+YUTP,,Utopia Airport,Small airport,,Australia
+YUTS,,Utopia Station Airport,Small airport,,Australia
+AYUZ,UVO,Uvol Airport,Small airport,Uvol,Papua New Guinea
+NTUV,VHZ,Vahitahi Airport,Small airport,Vahitahi,French Polynesia
+AYVA,,Vailala Airstrip,Small airport,Hepa,Papua New Guinea
+NVSV,VLS,Valesdir Airport,Small airport,Epi Island,Vanuatu
+YVAF,,Valley Field Airport,Small airport,,Australia
+YVLG,,Valley of Lagoons Airport,Small airport,,Australia
+YVRS,VNR,Vanrook Station Airport,Small airport,,Australia
+NFVB,VBV,Vanua Balavu Airport,Small airport,Vanua Balavu,Fiji
+YVSH,,Vashon Head Airport,Small airport,,Australia
+NFNV,VAU,Vatukoula Airport,Small airport,Vatukoula,Fiji
+NFVL,VTF,Vatulele Airport,Small airport,Vatulele,Fiji
+YVNS,,Vaughan Springs Airport,Small airport,,Australia
+YVRD,VCD,Victoria River Downs Airport,Small airport,,Australia
+YVVA,,Victoria Valley Airport,Small airport,,Australia
+YVVL,,Violet Vale Airport,Small airport,,Australia
+AGVH,VIU,Viru Harbour Airstrip,Small airport,Viru,Solomon Islands
+NWWF,,Voh Airport,Small airport,Voh,New Caledonia
+NFKD,KDV,Vunisea Airport,Small airport,Vunisea,Fiji
+AYWB,WAO,Wabo Airport,Small airport,Wabo,Papua New Guinea
+YWGN,,Wagin Airport,Small airport,,Australia
+NZKE,WIK,Waiheke Reeve Airport,Small airport,,New Zealand
+NZWV,,Waihi Beach Airport,Small airport,,New Zealand
+YWKI,,Waikerie Airport,Small airport,,Australia
+NZWM,,Waimate Airport,Small airport,,New Zealand
+NZRU,,Waiouru Airport,Small airport,,New Zealand
+NZYP,,Waipukurau Airport,Small airport,,New Zealand
+NFNW,KAY,Wakaya Island Airport,Small airport,Wakaya Island,Fiji
+AYWQ,WKN,Wakunai Airport,Small airport,Wakunai,Papua New Guinea
+NVSW,WLH,Walaha Airport,Small airport,Walaha,Vanuatu
+YWCH,WLC,Walcha Airport,Small airport,,Australia
+YWAB,,Waldburg Homestead Airport,Small airport,,Australia
+YWHL,,Walhallow Airport,Small airport,,Australia
+YWRV,,Walker River Airport,Small airport,,Australia
+YWBH,,Wallabadah Airport,Small airport,,Australia
+YWLX,,Wallacia Airport,Small airport,,Australia
+YWAL,WLA,Wallal Airport,Small airport,Wallal,Australia
+YWLH,,Wallara Ranch Airport,Small airport,,Australia
+YWPE,,Walpole Airport,Small airport,,Australia
+YWAG,,Wanaaring Airport,Small airport,,Australia
+YWAX,,Wanarn Airport,Small airport,Wanarn,Australia
+YWNS,,Wandsworth Airport,Small airport,,Australia
+AYWG,AGL,Wanigela Airport,Small airport,,Papua New Guinea
+AYWC,WTT,Wantoat Airport,Small airport,Wantoat,Papua New Guinea
+AYWH,WNU,Wanuma Airport,Small airport,Wanuma,Papua New Guinea
+AYWJ,WBC,Wapolu Airport,Small airport,Wapolu,Papua New Guinea
+AYWV,,Warasai Airstrip,Small airport,Warasai,Papua New Guinea
+YWRT,,Waratah Airport,Small airport,,Australia
+YWBR,,Warburton Airport,Small airport,,Australia
+YWRL,,Warialda Airport,Small airport,,Australia
+YWKW,,Warkworth Airport,Small airport,Warkworth,Australia
+YWVA,,Warnervale Airport,Small airport,Warnervale,Australia
+YWBS,SYU,Warraber Island Airport,Small airport,Sue Islet,Australia
+YWBI,,Warrabri Airport,Small airport,,Australia
+YWWG,WRW,Warrawagine Airport,Small airport,,Australia
+YWBL,WMB,Warrnambool Airport,Small airport,,Australia
+YWRR,,Warroora Homestead Airport,Small airport,Warroora Homestead,Australia
+YWCK,WAZ,Warwick Airport,Small airport,,Australia
+PLWN,TNQ,Washington Island Airstrip,Small airport,Teraina,Kiribati
+AYWS,WSU,Wasu Airport,Small airport,Wasu,Papua New Guinea
+AYIW,WSA,Wasua Airport,Small airport,Wasua,Papua New Guinea
+AYZM,WUM,Wasum Airport,Small airport,Wasum,Papua New Guinea
+YWTL,WLO,Waterloo Airport,Small airport,,Australia
+YWNI,,Wathanin Airport,Small airport,,Australia
+YWTV,,Watson River Airport,Small airport,,Australia
+YWAT,,Wattle Hills Airport,Small airport,,Australia
+YWSG,,Watts Bridge Airport,Small airport,,Australia
+AYWU,WUG,Wau Airport,Small airport,Wau,Papua New Guinea
+YWAC,,Wauchope Airport,Small airport,Wauchope,Australia
+YWAV,WAV,Wave Hill Airport,Small airport,,Australia
+YWRC,,Wave Rock Airport,Small airport,,Australia
+AYWF,WAJ,Wawoi Falls Airport,Small airport,Wavoi Falls,Papua New Guinea
+AYXW,WEP,Weam Airport,Small airport,Weam,Papua New Guinea
+YWBN,,Wedderburn Airport,Small airport,,Australia
+YWED,,Wedderburn Airport,Small airport,,Australia
+YWJS,,Wee Jasper Airport,Small airport,,Australia
+YWWA,WEW,Wee Waa Airport,Small airport,,Australia
+YWMG,,Weilmoringle Airport,Small airport,,Australia
+YWLB,,Welbourn Hill Airport,Small airport,,Australia
+YWEX,,Well 33 Airport,Small airport,,Australia
+YWEC,,Wellclose Airport,Small airport,,Australia
+YWEL,,Wellington Airport,Small airport,,Australia
+NZWJ,,Wellsford Airport,Small airport,,New Zealand
+YWTO,,Wentworth Airport,Small airport,,Australia
+YWWH,,Wentworth Airport,Small airport,,Australia
+YWER,,Wernadinga Airport,Small airport,,Australia
+YWEO,,Wertaloona Airport,Small airport,,Australia
+YANG,WLP,West Angelas Airport,Small airport,,Australia
+NZWL,,West Melton Aerodrome,Small airport,,New Zealand
+YWFD,,Western Field Airport,Small airport,,Australia
+YWML,,Westmoreland Airport,Small airport,,Australia
+YWSX,,Westonia Airport,Small airport,,Australia
+YWSD,,Westward Downs Airport,Small airport,,Australia
+NZES,,Wharepapa South Airport,Small airport,,New Zealand
+YWHC,,White Cliffs Airport,Small airport,,Australia
+YWGM,,White Gum Air Park,Small airport,York,Australia
+NZWT,WTZ,Whitianga Airport,Small airport,,New Zealand
+YWHI,WSY,Whitsunday Island Airport,Small airport,,Australia
+YWIL,,Wilandra Airport,Small airport,,Australia
+YWCA,WIO,Wilcannia Airport,Small airport,,Australia
+YWNA,,Wilgena Airport,Small airport,,Australia
+YWMC,,William Creek Airport,Small airport,,Australia
+YWMY,,Williambury Airport,Small airport,,Australia
+YWIS,,Williamson Airport,Small airport,,Australia
+YWLA,,Willowra Airport,Small airport,,Australia
+YHAW,HWK,Wilpena Pound Airport,Small airport,Hawker,Australia
+YWCM,,Wilson's Camp Airport,Small airport,,Australia
+YWLP,,Wilsons Promontory Airport,Small airport,,Australia
+YWIO,,Wilton Airport,Small airport,,Australia
+YWDG,WRN,Windarling Airport,Small airport,Windarling Mine,Australia
+YWDA,WND,Windarra Airport,Small airport,,Australia
+YWDJ,,Windjana Grove Airport,Small airport,,Australia
+YWNL,,Wingellina Airport,Small airport,,Australia
+YWPL,,Winning Pool North Airport,Small airport,,Australia
+AYXP,WPM,Wipim Airport,Small airport,Wipim,Papua New Guinea
+YWRE,,Wirralie Airport,Small airport,,Australia
+YWIE,,Wirralie Gold Mine Airport,Small airport,,Australia
+YWPA,,Wirrealpa Airport,Small airport,,Australia
+YWSI,,Wirrida Siding Airport,Small airport,,Australia
+YWIT,WIT,Wittenoom Airport,Small airport,,Australia
+AYIX,WIU,Witu Airport,Small airport,Garove Island,Papua New Guinea
+AYYB,,Wobagen Airstrip,Small airport,,Papua New Guinea
+YWDC,,Wodgina Airport,Small airport,,Australia
+AYWT,WTP,Woitape Airport,Small airport,Fatima Mission,Papua New Guinea
+YWOR,WLL,Wollogorang Airport,Small airport,,Australia
+YWMM,,Wollomombi Airport,Small airport,,Australia
+YWND,WDI,Wondai Airport,Small airport,,Australia
+YWDL,WON,Wondoola Airport,Small airport,Wondoola,Australia
+AYWO,WOA,Wonenara Airport,Small airport,Wonenara,Papua New Guinea
+YWOH,,Wongan Hills Airport,Small airport,,Australia
+YWNO,,Wonganoo Airport,Small airport,,Australia
+YWGW,,Wongawol Airport,Small airport,,Australia
+YWMA,,Wonnaminta Stat Airport,Small airport,,Australia
+YWON,,Wonthaggi Airport,Small airport,,Australia
+YWWI,WWI,Woodie Woodie Airport,Small airport,Woodie Woodie,Australia
+YWDS,,Woodside Au Airport,Small airport,,Australia
+YWOV,,Woodvale Airport,Small airport,,Australia
+YWVL,,Woodville Airport,Small airport,,Australia
+YWKD,,Woodycupaldiya Airfield,Small airport,Woodycupaldiya,Australia
+YWEE,,Wooleen Homestead Airport,Small airport,,Australia
+YWOM,,Woolomin Airport,Small airport,,Australia
+YWLN,,Wooltana Airport,Small airport,,Australia
+YPWR,UMR,Woomera Airfield,Small airport,Woomera,Australia
+YWOX,,Woorlba Airport,Small airport,,Australia
+YWRA,,Wooroona Airport,Small airport,,Australia
+AYVP,,Woposali Airstrip,Small airport,Woposali,Papua New Guinea
+AYBX,,Wowobo Airstrip,Small airport,Wowobo,Papua New Guinea
+YWMP,WPK,Wrotham Park Airport,Small airport,,Australia
+YWUD,WUD,Wudinna Airport,Small airport,,Australia
+AYVW,WUV,Wuvulu Island Airport,Small airport,Wuvulu Island,Papua New Guinea
+AYBY,,Wuyabo Airstrip,Small airport,Wuyabo,Papua New Guinea
+YWKM,,Wyalkatchem Airport,Small airport,Wyalkatchem,Australia
+YWDT,,Wyandotte Airport,Small airport,,Australia
+YWYA,,Wyandra Airport,Small airport,,Australia
+YWYF,,Wycheproof Airport,Small airport,,Australia
+YWYB,,Wynbring Airport,Small airport,,Australia
+YWYM,WYN,Wyndham Airport,Small airport,,Australia
+YYAC,,Yacamunda Airport,Small airport,,Australia
+YYGG,,Yagga Yagga Airport,Small airport,,Australia
+YYAG,,Yagga Yagga Airport,Small airport,,Australia
+AYYQ,,Yagrombok Airstrip,Small airport,Yagrombok,Papua New Guinea
+YYTA,KYI,Yalata Mission Airport,Small airport,Yalata Mission,Australia
+YYLD,,Yalda Downs Homestead Airport,Small airport,,Australia
+YYAL,YLG,Yalgoo Airport,Small airport,Yalgoo,Australia
+YYAK,,Yalkulka Airport,Small airport,,Australia
+YYLG,,Yallalong Homestead Airport,Small airport,,Australia
+AYYE,KYX,Yalumet Airport,Small airport,Yalumet,Papua New Guinea
+YYOO,,Yalymboo Airport,Small airport,,Australia
+YYMI,XMY,Yam Island Airport,Small airport,Yam Island,Australia
+YYRN,,Yamarna Airport,Small airport,,Australia
+YYAA,,Yandama Airport,Small airport,,Australia
+YADM,,Yandan Mine Airport,Small airport,,Australia
+YYDE,,Yandee Airport,Small airport,,Australia
+AGGY,XYA,Yandina Airport,Small airport,Yandina,Solomon Islands
+YYNR,,Yanrey Airport,Small airport,,Australia
+AYYJ,,Yanungen Airstrip,Small airport,Yanungen,Papua New Guinea
+AYYP,KPE,Yapsiei Airport,Small airport,,Papua New Guinea
+YRDA,,Yardea Airport,Small airport,,Australia
+YYRW,,Yarlarweelor Airport,Small airport,,Australia
+YYBE,,Yarrabee Mine Airport,Small airport,,Australia
+YAAL,,Yarralin Airport,Small airport,,Australia
+YYRM,,Yarram Airport,Small airport,,Australia
+YYWG,,Yarrawonga Airport,Small airport,,Australia
+NFSW,YAS,Yasawa Island Airport,Small airport,Yasawa Island,Fiji
+YYAS,,Yass Airport,Small airport,,Australia
+AYYR,KSX,Yasuru Airport,Small airport,Yasuru,Papua New Guinea
+AYYD,,Yatoam Airstrip,Small airport,Yatoam,Papua New Guinea
+AYYV,,Yawa Airstrip,Small airport,Yawa,Papua New Guinea
+AYYW,,Yawan Airstrip,Small airport,Yawan,Papua New Guinea
+YEAT,,Yea Airport,Small airport,,Australia
+YYEA,,Yeaburn Airport,Small airport,,Australia
+AYXY,,Yebil Airstrip,Small airport,Yebil,Papua New Guinea
+YYLR,KYF,Yeelirrie Airport,Small airport,,Australia
+AYXH,,Yehebi Airstrip,Small airport,Yehebi,Papua New Guinea
+AYYG,,Yemin Airstrip,Small airport,Yemin,Papua New Guinea
+AYYK,YEQ,Yenkis(Yankisa) Airport,Small airport,,Papua New Guinea
+YYER,,Yerilla Airport,Small airport,,Australia
+AYXE,YVD,Yeva Airport,Small airport,Yeva,Papua New Guinea
+AYYI,,Yili Airstrip,Small airport,Yili,Papua New Guinea
+AYZY,,Yilui Airstrip,Small airport,Yilui,Papua New Guinea
+AYYN,,Yimnalem Airstrip,Small airport,Yimnalem,Papua New Guinea
+AYJE,,Yomneri Airstrip,Small airport,Yomneri,Papua New Guinea
+AYJO,KGH,Yongai Airport,Small airport,Yongai,Papua New Guinea
+YYRK,,York Airport,Small airport,,Australia
+YYKI,OKR,Yorke Island Airport,Small airport,Yorke Island,Australia
+YYOR,ORR,Yorketown Airport,Small airport,,Australia
+YOUN,,Youanmi Airport,Small airport,,Australia
+YYWA,,Yowah Airport,Small airport,,Australia
+YYND,YUE,Yuendumu Airport,Small airport,,Australia
+YYUM,,Yuinmery Airport,Small airport,,Australia
+YYDM,,Yundamindera Airport,Small airport,,Australia
+YYUN,,Yunta Airport,Small airport,,Australia
+YZAN,,Zanthus Airport,Small airport,,Australia
+YZHN,,Zeehan Airport,Small airport,,Australia
+AYZA,ZEN,Zenag Airport,Small airport,Zenag,Papua New Guinea
+AYZZ,,Zuebak Airstrip,Small airport,Zuebak,Papua New Guinea
